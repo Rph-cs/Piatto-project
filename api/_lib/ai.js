@@ -1,0 +1,7 @@
+async function ai(prompt){
+ const k=process.env.AI_API_KEY,p=process.env.AI_PROVIDER||'anthropic',m=process.env.AI_MODEL,J={'content-type':'application/json'};
+ if(p==='openai'){const r=await(await fetch('https://api.openai.com/v1/chat/completions',{method:'POST',headers:{...J,Authorization:'Bearer '+k},body:JSON.stringify({model:m||'gpt-4o-mini',messages:[{role:'user',content:prompt}]})})).json();return r.choices[0].message.content}
+ if(p==='gemini'){const r=await(await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${m||'gemini-2.0-flash'}:generateContent?key=${k}`,{method:'POST',headers:J,body:JSON.stringify({contents:[{parts:[{text:prompt}]}]})})).json();return r.candidates[0].content.parts[0].text}
+ const r=await(await fetch('https://api.anthropic.com/v1/messages',{method:'POST',headers:{...J,'x-api-key':k,'anthropic-version':'2023-06-01'},body:JSON.stringify({model:m||'claude-sonnet-4-6',max_tokens:3500,messages:[{role:'user',content:prompt}]})})).json();return r.content[0].text}
+const FMT='Responda SOMENTE com JSON no formato {"receitas":[{"nome":"","categoria":"","tempo_min":0,"dificuldade":"Fácil|Média|Difícil","porcoes":0,"descricao":"uma frase","ingredientes":["quantidade + item"],"passos":[""]}]}. Português do Brasil, receitas simples e caseiras.';
+export async function gen(q){const t=await ai(q+' '+FMT);return JSON.parse(t.slice(t.indexOf('{'),t.lastIndexOf('}')+1)).receitas}
