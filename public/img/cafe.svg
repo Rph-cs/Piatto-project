@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260"><rect width="400" height="260" fill="#f6ecc8"/><circle cx="318" cy="64" r="44" fill="#f2cf6b"/><circle cx="318" cy="64" r="28" fill="#f8de92"/><ellipse cx="200" cy="218" rx="150" ry="14" fill="#e6d8a4"/>
+<g transform="translate(262 128) rotate(7)"><path d="M0 34q0-30 30-30t30 30v44H0z" fill="#d9a15b"/><path d="M9 38q0-20 21-20t21 20v34H9z" fill="#f3d39a"/></g>
+<ellipse cx="148" cy="200" rx="84" ry="14" fill="#fffef5"/><ellipse cx="148" cy="196" rx="68" ry="9" fill="#eceed0"/>
+<path d="M94 118h108v36q0 42-54 42t-54-42z" fill="#fffef5"/><path d="M202 132h14q18 0 18 18t-18 18h-16" fill="none" stroke="#fffef5" stroke-width="10" stroke-linecap="round"/>
+<ellipse cx="148" cy="118" rx="54" ry="9" fill="#8a5a3b"/><path d="M96 150q52 18 104 0" fill="none" stroke="#e7e9c8" stroke-width="5" stroke-linecap="round"/>
+<g fill="none" stroke="#cdbd80" stroke-width="6" stroke-linecap="round"><path d="M122 94q-10-14 0-27t0-26"/><path d="M148 94q-10-14 0-27t0-26"/><path d="M174 94q-10-14 0-27t0-26"/></g></svg>

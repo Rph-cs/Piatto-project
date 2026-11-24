@@ -1,0 +1,42 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#536744"><title>Piatto</title><meta name="description" content="Receitas com o que você tem em casa"><link rel="manifest" href="/manifest.webmanifest"><link rel="icon" href="/icons/favicon.png"><link rel="apple-touch-icon" href="/icons/apple-touch-icon.png"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Piatto"><link rel="stylesheet" href="style.css"></head><body>
+<section id="auth" class="hide">
+ <div class="art"><img src="piatto.jpg" alt="Piatto"></div>
+ <div class="box"><h1 class="brand">Piatto</h1><p class="muted">Cozinhe simples. Coma certo.</p>
+  <input id="u" placeholder="Nome de usuário" autocomplete="username" autocapitalize="none" maxlength="20"><input id="p" type="password" placeholder="Senha" autocomplete="current-password" maxlength="72">
+  <p class="err" id="aerr"></p><button class="btn" id="login">Entrar</button><button class="btn sec" id="reg">Criar conta</button></div>
+</section>
+<div id="app" class="hide">
+ <header><span class="brand">Piatto</span><nav><button data-v="home" class="on">Início</button><button data-v="favs">Favoritas</button><button data-v="premium" class="pr">Premium</button><button id="inst" class="hide">Instalar</button><button id="out">Sair</button></nav></header>
+ <main>
+ <section id="home" class="view">
+  <div class="split">
+   <div><p class="kicker">O que tem aí pode virar uma boa refeição.</p><h1>Escreva o que você tem e a gente cria as receitas.</h1>
+    <div class="srch"><input id="ing" placeholder="Digite um ingrediente (ex.: arroz, frango, tomate)" autocomplete="off"><div id="sug" class="sug hide"></div></div>
+    <div id="chips" class="chips"></div>
+    <div id="cats" class="chips"></div>
+    <label class="chk"><input type="checkbox" id="outros" checked> Pode usar básicos como sal, óleo e temperos</label>
+    <button class="btn big" id="go">Gerar receitas</button><p class="err" id="gerr"></p></div>
+   <aside class="daily"><h3>Receita do dia</h3><div id="daily" class="muted">Carregando...</div></aside>
+  </div>
+  <div id="res"></div>
+ </section>
+ <section id="favs" class="view hide"><h1>Suas favoritas</h1><div id="favlist"></div></section>
+ <section id="premium" class="view hide">
+ <div id="pitch"><p class="kicker">Piatto Premium</p><h1>Coma bem sem fazer conta.</h1>
+  <p class="lead">Veja as calorias de cada receita e receba um cardápio pensado para o seu corpo e a sua rotina.</p>
+  <div class="plans"><div class="card plan"><h3>Grátis</h3><p class="price">R$ 0</p><ul><li>Receitas a partir dos seus ingredientes</li><li>Receita do dia</li><li>Favoritas salvas na conta</li><li>Até 20 receitas por hora</li></ul><button class="btn sec" disabled>Seu plano atual</button></div>
+  <div class="card plan feat"><span class="tag">Mais completo</span><h3>Premium</h3><p class="price">R$ 9,90<small> /mês</small></p><ul><li>Tudo do plano grátis</li><li>Calorias e macros em cada receita</li><li>Dieta personalizada com as suas respostas</li><li>Suas favoritas entram como preferência</li><li>Até 60 receitas por hora</li></ul><button class="btn" id="sub">Assinar Premium</button><p class="muted small">Valor de demonstração. O pagamento ainda não está ativo.</p></div></div></div>
+ <div id="pro" class="hide"><h1>Sua dieta</h1><p class="muted" style="margin-top:-10px">Responda e geramos um cardápio de 3 dias para você alternar na semana.</p>
+  <div class="card form wide"><label>Objetivo<select id="d_obj"><option value="emagrecer">Emagrecer</option><option value="manter">Manter o peso</option><option value="ganhar">Ganhar massa</option></select></label>
+  <label>Sexo<select id="d_sex"><option value="f">Feminino</option><option value="m">Masculino</option></select></label>
+  <label>Idade<input id="d_idade" type="number" min="18" max="90"></label><label>Peso (kg)<input id="d_peso" type="number" step="0.1"></label>
+  <label>Altura (cm)<input id="d_alt" type="number"></label><label>Atividade física<select id="d_atv"><option value="sedentario">Quase nenhuma</option><option value="leve">Leve (1 a 3x por semana)</option><option value="moderado">Moderada (3 a 5x)</option><option value="intenso">Intensa (6 a 7x)</option></select></label>
+  <label>Refeições por dia<select id="d_ref"></select></label><label class="full">Restrições<div id="d_res" class="chips"></div></label>
+  <label class="full">Alergias<input id="d_alg" maxlength="120" placeholder="Ex.: amendoim, camarão"></label><label class="full">Alimentos que não gosta<input id="d_evi" maxlength="160"></label>
+  <label class="chk full"><input type="checkbox" id="d_sau"> Estou grávida, amamentando ou tenho condição de saúde com acompanhamento médico</label>
+  <button class="btn big full" id="dgo">Gerar minha dieta</button><p class="err full" id="derr"></p></div><div id="dres"></div></div>
+</section>
+ </main>
+</div>
+<div id="modal" class="hide"><div class="sheet"><button class="x" id="mx" aria-label="Fechar">×</button><button class="star" id="mstar"></button><div id="mbody"></div></div></div>
+<div id="toast"></div><script src="app.js"></script></body></html>

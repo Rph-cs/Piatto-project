@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260"><rect width="400" height="260" fill="#f8e1c6"/><ellipse cx="200" cy="222" rx="140" ry="14" fill="#eccfa8"/>
+<rect x="96" y="172" width="208" height="34" rx="16" fill="#d9a15b"/>
+<path d="M104 150h192l-12 24H116z" fill="#e9a6a0"/>
+<path d="M98 160h204q6 6 0 14H98q-6-8 0-14z" fill="#8fa660"/>
+<path d="M104 132h192v22H104z" fill="#f2cf6b"/><path d="M104 150l30 20 30-20z" fill="#f2cf6b"/>
+<circle cx="140" cy="132" r="13" fill="#d9674a"/><circle cx="196" cy="134" r="13" fill="#d9674a"/><circle cx="252" cy="132" r="13" fill="#d9674a"/>
+<path d="M90 130q0-72 110-72t110 72z" fill="#e0a45e"/><path d="M104 124q4-52 96-52t96 52z" fill="#eab774"/>
+<g fill="#fff4d6"><ellipse cx="150" cy="96" rx="9" ry="4.5" transform="rotate(-20 150 96)"/><ellipse cx="200" cy="84" rx="9" ry="4.5"/><ellipse cx="250" cy="96" rx="9" ry="4.5" transform="rotate(20 250 96)"/><ellipse cx="176" cy="108" rx="9" ry="4.5" transform="rotate(-8 176 108)"/><ellipse cx="226" cy="108" rx="9" ry="4.5" transform="rotate(8 226 108)"/></g></svg>

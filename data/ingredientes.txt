@@ -1,0 +1,1008 @@
+## Formato: Nome|apelido1,apelido2|b   (b = item básico de despensa; apelidos e b são opcionais)
+## Linhas com # no começo são categorias (ou comentários se tiverem dois ##)
+# Legumes e hortaliças
+Abóbora|abóbora madura,jerimum,abóbora de pescoço,abobora
+Abóbora cabotiá|cabotiá,abóbora japonesa,kabocha,cabotia
+Abóbora moranga|moranga
+Abobrinha|abobrinha italiana,abóbora italiana,zucchini,courgette
+Abobrinha brasileira|abobrinha verde,abobrinha caipira
+Aipo|salsão,salsao,aipo em talos
+Alcachofra|alcachofra fresca
+Alho|dente de alho,alho cru,alhos|b
+Alho-poró|alho poró,alho porro,alho-porro
+Aspargo|aspargos,aspargo verde
+Batata|batata inglesa,batatinha,batata comum,batatas
+Batata-baroa|mandioquinha,batata salsa,mandioquinha-salsa,baroa,batata baroa
+Batata-doce|batata doce,batata-doce roxa,batata doce branca,batata doce laranja
+Batata bolinha|batata pequena,batata baby,batatinha bolinha
+Batata asterix|batata roxa,batata rosada
+Berinjela|beringela,berinjela roxa,beringela roxa
+Beterraba|beterraba cozida,beterraba crua,beterrada
+Brócolis|brocolis,brócolis ninja,brócolis americano,brocoli
+Cará|inhame cará,cara
+Cebola|cebola branca,cebola amarela,cebola comum,cebolas|b
+Cebola roxa|cebola vermelha
+Cebola pérola|cebolinha pérola,cebola pequena
+Cebolinha|cebolinha verde,cebolinha-verde,cebolete,cheiro-verde
+Cenoura|cenouras,cenoura ralada,cenoura baby
+Chuchu|machucho,xuxu
+Couve-flor|couve flor,couveflor
+Couve-de-bruxelas|couve de bruxelas,repolhinho,repolhinho de bruxelas
+Ervilha fresca|ervilha em vagem,ervilha verde
+Ervilha torta|ervilha-torta,vagem de ervilha
+Erva-doce|funcho,fennel,anis
+Gengibre|gengibre fresco,raiz de gengibre
+Inhame|inhame roxo,inhame branco
+Jiló|jilo,jiló verde
+Mandioca|aipim,macaxeira,mandioca descascada,castelinha,mané-pelado
+Mandioca congelada|aipim congelado,macaxeira congelada
+Maxixe|maxixe verde
+Milho verde|milho,espiga de milho,milho cozido,milho fresco
+Nabo|nabo branco
+Palmito pupunha|pupunha,palmito fresco
+Pepino|pepino comum,pepino salada
+Pepino japonês|pepino japones
+Pimentão verde|pimentão,pimentao
+Pimentão vermelho|pimentao vermelho
+Pimentão amarelo|pimentao amarelo
+Quiabo|quiabos
+Rabanete|rabanete vermelho
+Repolho|repolho verde,repolho branco,repolho liso
+Repolho roxo|repolho vermelho
+Tomate|tomates,tomate maduro,tomate vermelho,tomate salada
+Tomate cereja|tomate-cereja,tomatinho,tomate cherry
+Tomate italiano|tomate sweet grape,tomate saladete,tomate pera
+Tomate seco|tomates secos,tomate desidratado
+Vagem|feijão-vagem,vagem macarrão,vagem manteiga
+Taioba|folha de taioba
+Ora-pro-nóbis|ora pro nobis,orapronobis,ora-pro-nobis
+Jambu|jambu folha
+Maniva|folha de mandioca
+Cogumelo champignon|champignon,champignom,cogumelo de paris,cogumelo-de-paris
+Cogumelo shimeji|shimeji,shimeji branco,shimeji preto
+Cogumelo shiitake|shiitake,shitake
+Cogumelo portobello|portobello,cogumelo portobelo
+Cogumelo ostra|cogumelo-ostra
+Funghi seco|cogumelo seco,funghi porcini,porcini
+Beterraba baby|mini beterraba
+Cenoura roxa|cenoura colorida
+Batata yacon|yacon,yacón
+Abóbora seca|abóbora desidratada
+# Verduras e folhas
+Acelga|acelga verde,acelga chinesa
+Agrião|agrião fresco,agriao
+Alface americana|alface,alface-americana
+Alface crespa|alface crespa verde,alface frisada
+Alface lisa|alface lisa verde
+Alface roxa|alface crespa roxa
+Alface romana|romana
+Almeirão|almeirao,almeirão roxo
+Caruru|caruru folha
+Chicória|chicoria
+Couve|couve manteiga,couve-manteiga,couve mineira
+Couve kale|kale,couve crespa,couve-kale
+Couve chinesa|acelga chinesa pak choi,pak choi,bok choy
+Escarola|escarola lisa
+Espinafre|espinafre fresco,espinafre baby
+Mostarda folha|folha de mostarda
+Radicchio|radite,chicória roxa
+Rúcula|rucula,arugula,rúcula baby
+Repolho chinês|napa,acelga napa
+Brotos de feijão|moyashi,broto de feijão,broto de soja,brotos
+Broto de alfafa|alfafa
+Salada mista|mix de folhas,mix de salada,folhas verdes
+Cebolinha francesa|chives
+Nirá|nira,alho-chinês
+# Ervas frescas
+Salsa|salsinha,salsa fresca,salsinha fresca,cheiro verde
+Coentro|coentro fresco,coentrinho
+Hortelã|menta,hortelã fresca,hortelã-pimenta
+Manjericão|basilicão,manjericão fresco,basilico,basil
+Alecrim|alecrim fresco
+Tomilho|tomilho fresco,tomilho seco
+Sálvia|salvia
+Orégano|oregano,orégano fresco,orégano seco|b
+Louro|folha de louro,louro seco,folhas de louro|b
+Manjerona|manjerona fresca
+Estragão|estragao,tarragon
+Endro|dill,aneto
+Capim-limão|capim limão,capim santo,erva-cidreira,capim-cidreira
+Cebolinha-chinesa|cebolinha chinesa
+Folha de curry|curry leaf,curry leaves
+Folha de bananeira|folha de banana
+# Frutas
+Abacate|abacates,abacate hass,abacate manteiga
+Abacaxi|ananás,abacaxi pérola,abacaxi havaí
+Acerola|acerolas,polpa de acerola
+Açaí|açai,polpa de açaí,açaí congelado,acai
+Ameixa|ameixa fresca,ameixa vermelha
+Amora|amoras,amora preta
+Atemoia|fruta-do-conde,pinha,ata,fruta do conde
+Banana prata|banana,bananas,banana-prata
+Banana nanica|banana d'água,banana-nanica,banana caturra
+Banana-da-terra|banana da terra,banana comprida,banana pacovan
+Banana maçã|banana-maçã
+Caju|caju fresco,polpa de caju
+Caqui|caqui chocolate,caqui rama forte
+Carambola|carambola fresca
+Cereja|cerejas,cereja fresca
+Cupuaçu|cupuaçu polpa,cupuacu
+Damasco|damasco fresco
+Figo|figo fresco,figos
+Framboesa|framboesas
+Goiaba|goiaba vermelha,goiaba branca,goiabas
+Graviola|graviola polpa
+Jabuticaba|jabuticabas
+Jaca|jaca mole,jaca dura,jaca verde,jaca cozida
+Kiwi|quivi,kiwi verde
+Laranja|laranja pera,laranja lima,laranja bahia,laranjas,laranja-pera
+Limão|limão taiti,limão tahiti,limão verde,limao,limões|b
+Limão siciliano|limao siciliano,limão-siciliano
+Limão galego|limão-galego,limão cravo
+Lima|lima da pérsia,lima-da-pérsia
+Maçã|maçã fuji,maçã gala,maçã verde,maca,maçãs,maçã vermelha
+Mamão|mamão papaia,papaia,mamão formosa,mamao,mamão havaí
+Manga|manga palmer,manga tommy,manga espada,manga rosa,mangas
+Maracujá|maracujá azedo,maracujá amarelo,maracuja,polpa de maracujá
+Melancia|melancia sem semente
+Melão|melão amarelo,melão cantaloupe,melão galia,melão espanhol
+Mexerica|tangerina,bergamota,ponkan,mimosa,mandarina,vergamota,tangerina ponkan
+Mirtilo|blueberry,mirtilos
+Morango|morangos,morango fresco
+Nectarina|nectarinas
+Pera|pera williams,pera portuguesa,pera d'anjou
+Pêssego|pessego,pêssegos
+Pitaya|fruta-dragão,pitaya vermelha,dragon fruit
+Pitanga|pitangas
+Romã|roma,romã fresca
+Tâmara|tamara,tâmaras,tâmara medjool
+Uva|uva verde,uva roxa,uva rosada,uvas,uva sem semente
+Uva-passa|uva passa,passas,uvas passas,uva-passa preta
+Coco verde|água de coco verde,coco-verde
+Coco seco|coco maduro,coco inteiro
+Coco ralado|coco ralado fresco,coco seco ralado,coco em flocos
+Coco ralado sem açúcar|coco ralado desidratado
+Pequi|pequi fresco
+Cajá|cajá-manga,cajá fruta
+Umbu|imbu
+Seriguela|ciriguela,siriguela
+Tamarindo|tamarindo polpa
+Lichia|lichia fresca,lichi,lychee
+Physalis|fisális,uvaia fruta,camapu
+Carambola amarela|carambola madura
+Jenipapo|jenipapo fruta
+Mangaba|mangaba fruta
+Bacuri|bacuri fruta
+Buriti|polpa de buriti
+Cacau|cacau fruta,fruta do cacau
+Cranberry|cranberry fresco,oxicoco
+Groselha|groselha fresca
+Jambo|jambo fruta
+Maçã verde|maçã granny smith,granny smith
+Melão sertanejo|melão orange
+Polpa de fruta|polpa congelada,polpa de frutas
+Suco de limão|suco de limao,limão espremido|b
+Suco de laranja|suco de laranja natural,laranja espremida
+Raspas de limão|casca de limão ralada,zest de limão
+Raspas de laranja|casca de laranja ralada,zest de laranja
+Frutas vermelhas|berries,frutas do bosque,mix de frutas vermelhas
+Salada de frutas|frutas picadas,frutas variadas
+# Carnes bovinas
+Alcatra|alcatra bovina,bife de alcatra
+Acém|acem,acém bovino
+Contrafilé|contra-filé,contra filé,contrafile,bife ancho
+Coxão mole|coxao mole,coxão mole bovino
+Coxão duro|coxao duro,coxão duro bovino
+Patinho|patinho bovino
+Lagarto|lagarto bovino,lagarto redondo
+Fraldinha|fraldinha bovina
+Maminha|maminha bovina
+Picanha|picanha bovina,picanha maturada
+Costela bovina|costela,costelão,costela de boi,costela janela
+Cupim|cupim bovino
+Filé mignon|filé-mignon,file mignon,mignon,filé mignon bovino
+Músculo|músculo bovino,musculo,mussculo bovino,peito de acém
+Peito bovino|peito de boi,peito
+Paleta bovina|paleta,paleta de boi
+Capa de filé|capa filé
+Carne moída|carne moida,carne moída bovina,carne moída de primeira,patinho moído
+Carne seca|charque,jabá,carne de sol,carne do sertão,jabá dessalgado
+Carne de sol|carne-de-sol
+Fígado bovino|fígado,figado de boi
+Língua bovina|língua,lingua de boi
+Rabada|rabo de boi,rabada bovina
+Mocotó|mocotó bovino,pé de boi
+Bucho|dobradinha,tripa,buchada,bucho bovino
+Carne de panela|carne para cozinhar,carne cozida
+Ossobuco|osso buco,ossobuco bovino
+Vazio|fraldão,vazio bovino
+Entrecôte|entrecot,entrecote,bife de chorizo,chorizo
+T-bone|tbone,t bone
+Chuleta|chuleta bovina,costela chuleta
+Bife|bife bovino,bifes,bife de carne
+Bife de fígado|bife de figado
+Carne desfiada|carne cozida desfiada,ropa vieja
+Fraldinha de cordeiro|fraldinha cordeiro
+Medalhão|medalhão de filé,medalhao
+Tutano|osso com tutano,osso de tutano
+Osso bovino|ossos,osso de boi,ossos de boi
+Charque dessalgado|charque pronta
+Costela desfiada|costela cozida desfiada
+Cordeiro|carne de cordeiro,cordeiro cozido
+Pernil de cordeiro|pernil de carneiro,perna de cordeiro
+Carré de cordeiro|carré,costeleta de cordeiro
+Carneiro|carne de carneiro,carne de ovelha
+Cabrito|carne de cabrito,bode,carne de bode
+Coelho|carne de coelho
+Javali|carne de javali
+Rã|carne de rã,perna de rã
+# Aves
+Frango inteiro|frango,frango caipira,galinha,frango de granja
+Peito de frango|peito,peito de frango sem osso,filé de peito de frango,filé de frango,peitinho de frango
+Coxa de frango|coxa,coxa de frango com pele
+Sobrecoxa|sobrecoxa de frango,sobrecoxa sem osso
+Coxa e sobrecoxa|coxa com sobrecoxa
+Asa de frango|asinha,asa,asas de frango,asinha de frango
+Coxinha da asa|drumette,coxinha de asa
+Frango desfiado|frango cozido desfiado,peito de frango desfiado
+Frango moído|frango moida,peito de frango moído
+Moela|moela de frango,moelinha
+Coração de frango|coraçãozinho,coracao de frango,coração de galinha
+Fígado de frango|figado de frango,fígado de galinha
+Pé de frango|patinha de frango
+Peru|peru inteiro,carne de peru
+Chester|chester inteiro
+Pato|carne de pato,peito de pato
+Codorna|codornas,codorna inteira
+Ovo de codorna|ovos de codorna,ovinho de codorna
+Galinha caipira|galinha d'angola,galinha de capoeira
+Frango à passarinho|passarinho,frango passarinho,frango em cubos
+Tulipa de frango|tulipa,tulipinha
+Filé de coxa|filé de sobrecoxa
+Cubos de frango|frango em cubos,iscas de frango,tirinhas de frango
+# Carnes suínas e embutidos
+Lombo suíno|lombo,lombo de porco,lombo de porco assado
+Lombinho|lombinho suíno,lombinho de porco
+Pernil|pernil suíno,pernil de porco,pernil assado
+Bisteca suína|bisteca,bisteca de porco
+Costelinha suína|costelinha,costelinha de porco,costela suína,costela de porco
+Barriga suína|barriga de porco,panceta,pancetta,barriga
+Bacon|bacon em cubos,bacon fatiado,toucinho defumado,becon
+Toucinho|toucinho fresco,torresmo cru,toicinho
+Torresmo|torresmo pronto,pururuca
+Carne de porco|porco,carne suína
+Paleta suína|paleta de porco
+Joelho de porco|joelho suíno,joelho
+Pé de porco|pé suíno,pezinho de porco
+Orelha de porco|orelha suína,orelha
+Rabo de porco|rabinho de porco,rabo suíno
+Carne de porco salgada|carne salgada,carne de porco defumada
+Linguiça calabresa|calabresa,linguiça de calabresa,calabresa defumada
+Linguiça toscana|toscana,linguiça de porco
+Linguiça de frango|linguiça de frango,linguicinha de frango
+Linguiça cuiabana|cuiabana
+Linguiça defumada|linguiça fininha,linguiça mineira
+Linguiça fresca|linguiça crua,linguiça de pernil
+Linguiça de churrasco|linguiça churrasco
+Paio|paio defumado
+Salsicha|salsicha de hot dog,salsichas,salsicha viena,salsicha tipo viena
+Presunto|presunto cozido,presunto fatiado,presuntinho,fiambre
+Presunto cru|presunto parma,parma,jamón serrano,presunto serrano
+Apresuntado|apresuntado fatiado
+Mortadela|mortadela fatiada,mortadela bologna
+Salame|salame italiano,salame fatiado,salaminho
+Copa|copa lombo,copa fatiada
+Peito de peru|peito de peru fatiado,blanquet de peru,blanquet
+Blanquet de peru|blanquet
+Chouriço|chourição,chouriço português
+Morcela|morcilha
+Lombo canadense|lombo canadense fatiado
+Pastrami|pastrami fatiado
+Linguiça blumenau|blumenau
+Banha de porco|banha,gordura de porco,banha de porco pura|b
+Torresminho|torresmo de barriga
+Presunto de parma|presunto parma
+Prosciutto|prosciutto crudo
+Bacon de peru|bacon de frango
+# Peixes e frutos do mar
+Tilápia|filé de tilápia,tilapia,tilápia inteira
+Salmão|filé de salmão,salmao,posta de salmão,salmão fresco
+Salmão defumado|salmão defumado fatiado,smoked salmon
+Atum|atum fresco,filé de atum,posta de atum
+Atum em lata|atum enlatado,atum ralado,atum sólido,atum em conserva,atum ao natural
+Sardinha|sardinha fresca,sardinhas
+Sardinha em lata|sardinha enlatada,sardinha em conserva,sardinha ao óleo
+Bacalhau|bacalhau salgado,bacalhau do porto,bacalhau seco,bacalhau dessalgado,bacalhau gadus morhua
+Bacalhau desfiado|bacalhau em lascas,lascas de bacalhau
+Merluza|filé de merluza,merluza congelada
+Pescada|filé de pescada,pescada branca,pescada amarela
+Pintado|filé de pintado,surubim,posta de pintado
+Tambaqui|costela de tambaqui,tambaqui inteiro
+Tucunaré|tucunaré filé
+Pirarucu|pirarucu fresco,pirarucu seco
+Dourado|filé de dourado,dourado do rio
+Robalo|filé de robalo,robalo inteiro
+Badejo|filé de badejo
+Cação|posta de cação,cação em posta,tubarão
+Corvina|filé de corvina,corvina inteira
+Linguado|filé de linguado
+Truta|truta salmonada,truta inteira,truta arco-íris
+Anchova|anchovas,filé de anchova
+Anchova em conserva|filé de anchova em conserva
+Cavala|cavala inteira
+Namorado|peixe namorado
+Garoupa|filé de garoupa
+Pescadinha|filé de pescadinha
+Peixe branco|filé de peixe branco,filé de peixe,peixe,peixe em filé
+Bagre|filé de bagre
+Panga|filé de panga,pangasius
+Merluza empanada|peixe empanado,filé empanado de peixe
+Camarão|camarões,camarão fresco,camarão limpo,camarão médio,camarão grande
+Camarão rosa|camarão-rosa
+Camarão cinza|camarão-cinza,camarão sete-barbas,sete barbas
+Camarão seco|camarão defumado,camarão desidratado
+Camarão descascado|camarão limpo congelado
+Lula|anéis de lula,lulas,lula em anéis
+Polvo|polvo cozido,polvo fresco,tentáculo de polvo
+Mexilhão|mexilhões,mexilhão cozido,mexilhão congelado
+Marisco|mariscos,marisco fresco,marisco cozido
+Vieira|vieiras,scallops
+Ostra|ostras,ostra fresca
+Caranguejo|carne de caranguejo,caranguejo uçá,caranguejo vivo
+Siri|carne de siri,siri catado,siri desfiado
+Lagosta|lagostas,cauda de lagosta,lagosta inteira
+Berbigão|berbigões
+Sururu|sururu cozido
+Surimi|kani,kanikama,kani kama,caranguejo artificial
+Peixe seco|peixe defumado,peixe salgado
+Ova de peixe|ovas,ova,caviar,ovas de peixe
+Mariscada|frutos do mar,frutos do mar mistos,mix de frutos do mar
+Moqueca de peixe|peixe para moqueca
+Lagostim|lagostins,lagostim limpo
+Cavalinha|cavalinha em lata
+Arenque|arenque defumado
+Hadoque|hadock,haddock
+# Ovos e laticínios
+Ovo|ovos,ovo de galinha,ovo branco,ovo vermelho,ovo caipira,ovinho,ovo inteiro|b
+Clara de ovo|claras,claras de ovo,clara,clara de ovos
+Gema de ovo|gemas,gema,gema de ovos
+Ovo cozido|ovos cozidos
+Ovo de pata|ovo de pato
+Leite|leite integral,leite de vaca,leite tipo c,leite longa vida
+Leite desnatado|leite magro
+Leite semidesnatado|leite semi desnatado,leite semi-desnatado
+Leite sem lactose|leite zero lactose,leite delactosado
+Leite em pó|leite em pó integral,leite ninho,leite em pó desnatado,leite em pó instantâneo
+Leite condensado|leite moça,leite condensado integral,leite condensado light,condensado
+Leite evaporado|leite evaporado integral
+Leite de coco|leite de côco,leite coco,leite de coco tradicional,leite de coco light
+Creme de leite|creme de leite fresco,creme de leite de caixinha,creme de leite de lata,creme de leite light,creme leite
+Creme de leite fresco|nata fresca,creme fresco,chantilly fresco,creme de leite 35%
+Nata|nata de leite,nata fresca de leite
+Chantilly|chantili,chantilly pronto,creme chantilly
+Iogurte natural|iogurte,yogurte,yogurt,iogurte integral,iogurte natural integral,iogurte natural desnatado
+Iogurte grego|iogurte grego natural,iogurte grego integral,yogurte grego
+Iogurte de frutas|iogurte de morango,iogurte com polpa,iogurte sabor
+Kefir|kefir de leite,quefir
+Coalhada|coalhada seca,coalhada fresca,coalhada caseira
+Leitelho|buttermilk,leite fermentado caseiro
+Leite fermentado|yakult,leite fermentado probiótico
+Manteiga|manteiga com sal,manteiga sem sal,manteiga extra,manteiga de leite,manteiga comum|b
+Manteiga ghee|ghee,manteiga clarificada
+Manteiga de garrafa|manteiga de garrafa nordestina,manteiga da terra
+Margarina|margarina com sal,margarina sem sal,margarina cremosa,margarina vegetal
+Requeijão|requeijão cremoso,requeijão tradicional,catupiry,requeijão light,requeijão em copo
+Requeijão culinário|requeijão em barra
+Cream cheese|creme de queijo,cream-cheese,cream chesse,cream cheese light,philadelphia
+Queijo cottage|cottage,queijo cotagge,queijo cottage light
+Ricota|ricota fresca,ricota defumada,ricotta,ricota light
+Mascarpone|mascarpone queijo
+Creme azedo|sour cream,creme de leite azedo,creme azedo/sour cream
+Leite de cabra|leite caprino
+Doce de leite|doce de leite cremoso,doce de leite pastoso,doce de leite em lata,doce de leite de caixa
+Pudim de leite|pudim pronto
+Petit suisse|petit suíço,danoninho
+Soro de leite|whey líquido,soro do leite
+Gelado|sorvete de creme,sorvete,sorvete de baunilha,sorvete de chocolate
+Gelatina de leite|manjar branco pronto
+Cobertura de chantilly|chantilly em spray,spray de chantilly
+Leite aromatizado|leite com chocolate,achocolatado pronto
+# Queijos
+Queijo mussarela|mussarela,muçarela,mozzarella,mozarela,queijo muçarela,mussarela fatiada,mussarela ralada,mussarela de búfala
+Queijo mussarela de búfala|muçarela de búfala,mozzarella di bufala,bufala
+Burrata|burrata fresca
+Queijo minas frescal|minas frescal,queijo frescal,queijo fresco,queijo minas fresco
+Queijo minas padrão|minas padrão,queijo minas,queijo padrão
+Queijo minas meia cura|meia cura,minas meia-cura,queijo meia cura
+Queijo coalho|coalho,queijo de coalho,queijo coalho assado,queijinho de coalho
+Queijo parmesão|parmesão,parmesao,queijo parmesão ralado,parmesão ralado,queijo ralado,parmesão fatiado
+Queijo grana padano|grana padano,grana
+Queijo pecorino|pecorino,pecorino romano
+Queijo provolone|provolone,provolone defumado,provolone fatiado
+Queijo gorgonzola|gorgonzola,queijo azul,queijo de veio azul,roquefort
+Queijo brie|brie,queijo de pasta mole
+Queijo camembert|camembert
+Queijo gouda|gouda
+Queijo emmental|emmental,queijo suíço,queijo gruyère,gruyère,gruyere
+Queijo cheddar|cheddar,cheddar fatiado,queijo cheddar fatiado,cheddar ralado
+Queijo feta|feta,queijo feta grego
+Queijo canastra|queijo da canastra,canastra
+Queijo do reino|queijo flamengo,edam,queijo edam
+Queijo estepe|estepe
+Queijo colonial|queijo colonial fresco
+Queijo de cabra|queijo caprino,chevre,chèvre
+Queijo raclette|raclette
+Queijo manchego|manchego
+Queijo halloumi|halloumi,queijo grelhável
+Queijo paneer|paneer
+Queijo fundido|queijo processado,queijo cremoso derretido,fondue de queijo
+Queijo branco|queijo fresco branco
+Queijo serra da estrela|serra da estrela
+Queijo cremoso|queijo cremoso tipo catupiry
+Queijo tulha|tulha
+Queijo samsoe|samsoe
+Queijo havarti|havarti
+# Arroz, grãos e cereais
+Arroz|arroz branco,arroz agulhinha,arroz tipo 1,arroz tipo 1 agulhinha,arroz cru,arroz polido|b
+Arroz cozido|arroz pronto,arroz branco cozido,arroz de sobra,sobra de arroz,arroz do dia anterior
+Arroz integral|arroz integral cozido
+Arroz parboilizado|arroz parbolizado,arroz parboilizado tipo 1,arroz parboilizado cozido
+Arroz arbóreo|arroz arborio,risoto arroz,arborio
+Arroz carnaroli|carnaroli
+Arroz cateto|arroz cateto,arroz japonês,arroz japones,arroz para sushi,arroz de sushi
+Arroz negro|arroz preto
+Arroz selvagem|wild rice,arroz selvagem mix
+Arroz vermelho|arroz vermelho integral
+Arroz basmati|basmati,arroz basmati cozido
+Arroz jasmim|arroz jasmine,jasmine
+Arroz 7 grãos|arroz sete grãos,arroz multigrãos,arroz mix de grãos
+Quinoa|quinua,quinoa em grãos,quinoa real,quinoa em flocos
+Aveia|aveia em flocos,aveia em flocos finos,aveia flocos grossos,aveia flocos finos,flocos de aveia
+Farelo de aveia|farelo de aveia fino
+Granola|granola caseira,granola sem açúcar,granola tradicional,granola com mel
+Trigo para quibe|trigo de quibe,trigo para kibe,trigo quibe,trigo fino,trigo grosso,trigo kibe
+Trigo em grão|trigo,grão de trigo,trigo para sopa
+Cuscuz marroquino|couscous,cuscuz marroquino cozido,couscous marroquino
+Cuscuz nordestino|flocão de milho,flocão,cuscuz de milho,cuscuz paulista,flocão de milho hidratado
+Flocos de milho|corn flakes,cereal matinal,cereal de milho,flocos de arroz,sucrilhos,sucrilhos sem açúcar
+Milho de pipoca|pipoca,milho para pipoca,pipoca crua
+Pipoca de micro-ondas|pipoca pronta,pipoca de microondas,pipoca tradicional
+Canjica|milho de canjica,canjica branca,canjica amarela,milho branco,milho de mungunzá,mungunzá
+Polenta|polenta pronta,polenta cremosa,polenta instantânea,polenta de milho
+Fubá|fubá mimoso,fubá de milho,fubá fino,fubá grosso,fubá fino de milho
+Milho em grão|milho seco,milho de galinha,milho debulhado
+Cevada|cevada em grão,cevada perolada
+Centeio|grão de centeio,centeio em grão
+Painço|milheto
+Amaranto|amaranto em grãos,amaranto em flocos
+Trigo sarraceno|sarraceno,buckwheat,trigo mourisco
+Sorgo|sorgo em grãos
+Farelo de trigo|farelo de trigo integral,farelo
+Germe de trigo|gérmen de trigo,germen de trigo
+Arroz com feijão|arroz e feijão prontos
+Bulgur|trigo bulgur
+Freekeh|freekeh cereal
+Teff|grão de teff
+Triguilho|trigo triguilho
+Farro|trigo farro
+Muesli|müsli,mix de cereais
+Cereal integral|cereal sem açúcar,cereal matinal integral
+Barra de cereal|barrinha de cereal,barra de granola,barrinha
+Arroz de forno|arroz pronto de forno
+# Feijões e leguminosas
+Feijão carioca|feijão,feijão carioca cozido,feijão cozido,feijão de caldo,feijoada de caldo,feijão carioquinha
+Feijão preto|feijão preto cozido,feijão preto de caldo,feijão-preto
+Feijão branco|feijão branco cozido,feijão alvo,feijão branco graúdo,feijão cannellini,cannellini
+Feijão fradinho|feijão fradinho cozido,feijão de olho preto,feijão-fradinho,black-eyed peas
+Feijão-de-corda|feijão de corda,feijão macassar,feijão verde,feijão macáçar,feijão-macassar,feijão de corda verde
+Feijão rajado|feijão carioca rajado,feijão pinto
+Feijão jalo|feijão jalo cozido,jalo
+Feijão azuqui|feijão azuki,azuki,adzuki,feijão adzuki
+Feijão mungo|mungo,feijão moyashi,mung bean
+Feijão vermelho|kidney,feijão kidney,feijão vermelho cozido,red kidney
+Feijão andu|andu,feijão guandu,guandu,feijão-andu,feijão guando
+Feijão de lima|fava lima,feijão-de-lima,feijão fava
+Feijão tropeiro pronto|tropeiro,feijão tropeiro,mix tropeiro
+Feijão em conserva|feijão em lata,feijão enlatado,feijão pronto de lata
+Lentilha|lentilhas,lentilha cozida,lentilha marrom,lentilha verde
+Lentilha vermelha|lentilha rosa,lentilha laranja,lentilha vermelha descascada
+Lentilha preta|lentilha beluga,beluga
+Grão-de-bico|grão de bico,grao de bico,grão-de-bico cozido,grão de bico cozido,grão-de-bico em lata
+Ervilha seca|ervilha partida,ervilha seca partida,ervilha verde seca
+Ervilha em conserva|ervilha enlatada,ervilha em lata,ervilhas em lata,ervilhas,ervilha de lata,ervilha fresca em lata
+Soja|soja em grão,grão de soja,feijão de soja
+Soja em grãos|soja cozida
+Fava|fava seca,fava fresca,fava cozida
+Edamame|edamame cozido,soja verde,vagem de soja
+Tremoço|tremoço em conserva,tremoços
+Amendoim cru|amendoim,amendoim sem sal,amendoim com casca,amendoim descascado
+Amendoim torrado|amendoim torrado salgado,amendoim torrado sem sal,amendoim salgado
+Pasta de amendoim|manteiga de amendoim,pasta de amendoins,pasta de amendoim integral
+Proteína de soja|pts,proteína texturizada de soja,proteína de soja texturizada,carne de soja,soja texturizada
+Tofu|queijo de soja,tofu firme,tofu macio,tofu defumado,tofu sedoso
+Tempeh|tempê,tempeh de soja
+Seitan|carne de glúten,glúten de trigo,seitan vegano
+Hummus|homus,hommus,pasta de grão de bico,homus pronto
+Falafel|falafel pronto,falafel cru,bolinho de grão de bico
+# Massas
+Macarrão|massa,macarrão cozido,macarrão cru,massa seca,macarrão tipo espaguete
+Macarrão espaguete|espaguete,spaghetti,espaguete cozido,espaguete integral,spaghetti cozido
+Macarrão penne|penne,penne rigate,penne cozido,penne integral
+Macarrão parafuso|parafuso,fusilli,macarrão fusilli,rotini,parafuso integral
+Macarrão talharim|talharim,tagliatelle,tagliatelli,talharim de ovos
+Macarrão fettuccine|fettuccine,fetuccine,fetuccini,fettucine
+Macarrão ninho|macarrão de ninho,ninhos,massa ninho,massa de ninho,ninho de macarrão
+Macarrão cabelo de anjo|cabelo de anjo,vermicelli,aletria,macarrão cabelinho,macarrão fininho
+Macarrão argolinha|argolinha,macarrão argola,macarrão de argolinha,macarrão para sopa
+Macarrão conchinha|conchinha,conchiglie,macarrão concha,conchiglione,macarrão concha grande
+Macarrão gravatinha|gravatinha,farfalle,macarrão gravata,farfalle cozido
+Macarrão rigatoni|rigatoni,macarrão rigatone
+Macarrão orecchiette|orecchiette
+Macarrão linguine|linguine,linguini
+Macarrão bucatini|bucatini
+Macarrão capellini|capellini,cabelo de anjo fino
+Macarrão ave maria|ave maria,macarrão ave-maria,macarrãozinho
+Macarrão letrinhas|letrinhas,massinha de letras
+Macarrão cotovelo|cotovelo,macarrão cotovelinho,macarrão de cotovelo,macaroni,macarrão macaroni
+Macarrão de arroz|macarrão de arroz fino,vermicelli de arroz,massa de arroz,noodle de arroz,rice noodle,macarrão pad thai
+Macarrão de feijão|macarrão celofane,macarrão de feijão mungo,glass noodles
+Macarrão soba|soba,macarrão japonês,soba cozido
+Macarrão udon|udon,macarrão udon cozido
+Macarrão ramen|ramen,lámen,lamen,macarrão de lámen,noodles
+Macarrão instantâneo|miojo,nissin,lámen instantâneo,macarrão de pacotinho,macarrão pronto instantâneo,miojo de galinha,miojo de carne
+Macarrão sem glúten|massa sem glúten,macarrão de milho,macarrão de arroz sem glúten
+Macarrão de abobrinha|zoodles,espaguete de abobrinha,massa de abobrinha
+Macarrão integral|massa integral,espaguete integral
+Lasanha|massa de lasanha,massa para lasanha,placas de lasanha,massa de lasanha pré-cozida,folha de lasanha
+Nhoque|gnocchi,nhoque de batata,nhoque pronto,nhoque congelado,gnocchi di patate
+Capeletti|capelete,cappelletti,capeletti de carne,capeletti de queijo
+Ravióli|ravioli,ravióli de queijo,ravióli de carne,ravioli de ricota
+Tortellini|tortelloni,tortelini,tortellini de queijo
+Massa fresca|massa caseira,massa fresca de ovos
+Massa de pastel|massa pastel,massa de pastel pronta,disco de pastel,discos de pastel,massa pra pastel,massa de pastel congelada
+Massa folhada|massa folhada pronta,folhado,massa folhada congelada,massa folhada fresca
+Massa de pizza|massa pizza,massa pra pizza,disco de pizza,massa de pizza pronta,base de pizza,massa de pizza congelada
+Massa de empada|massa de empadinha,massa de empadão,massa para empadas
+Massa de torta|massa de torta pronta,massa quebrada,massa podre,massa sablée,massa sablee,fundo de torta
+Massa filo|massa phyllo,massa fillo,massa filo folhada
+Massa de wonton|massa de guioza,massa de gyoza,gyoza,guioza,massa de rolinho primavera,massa de rolinho,massa de harumaki
+Massa de crepe|massa de panqueca,massa de panqueca pronta,massa de crepioca,crepe pronto,panqueca pronta
+Massa de coxinha|massa para coxinha,massa de salgado,massa de salgados
+Massa de pão|massa de pão pronta,massa de pão congelada,massa de pão de queijo
+Massa de bolo|massa de bolo pronta,mistura para bolo,massa de bolo instantânea,mix para bolo
+Massa de tapioca|massa pronta de tapioca,tapioca pronta,tapioca hidratada
+Massa de pão de queijo|massa congelada de pão de queijo
+Massa de pamonha|massa de milho,massa de milho verde
+Massa de rolinho primavera|rolinho primavera,massa de rolinho de primavera
+Massa de quibe|massa para quibe
+Massa de ravioli|massa para ravióli,massa de capeletti
+Massa de empanada|massa de empanada,massa de empanada argentina
+Massa de calzone|massa de calzone,massa calzone
+Massa de esfiha|massa de esfiha pronta,massa de esfirra,massa de esfirra aberta
+Massa de calabresa|massa de pizza calabresa
+Massa de bolinho|massa de bolinho de chuva,mistura para bolinho de chuva
+# Farinhas, amidos e fermentos
+Farinha de trigo|farinha,farinha de trigo comum,farinha de trigo tipo 1,farinha de trigo refinada,farinha de trigo especial,farinha de trigo sem fermento,farinha branca,farinha de trigo tradicional|b
+Farinha de trigo integral|farinha integral,farinha de trigo integral fina,farinha de trigo integral grossa
+Farinha de trigo com fermento|farinha com fermento,farinha de trigo c/ fermento,farinha de trigo pronta com fermento,farinha de trigo fermento
+Farinha de mandioca|farinha,farinha de mandioca crua,farinha de mandioca torrada,farinha de mandioca branca,farinha de mandioca amarela,farinha de farofa,farinha de mesa,farinha de macaxeira
+Farinha de rosca|farinha de rosca fina,farinha de rosca grossa,rosca,farinha de rosca caseira,panko,farinha panko,farinha de empanar
+Farinha panko|panko japonesa,farinha de rosca japonesa
+Farofa pronta|farofa,farofa de mandioca,farofa temperada,farofa de bacon,farofa pronta temperada
+Farinha de milho|farinha de milho amarela,farinha de milho branca,farinha de milho fina,farinha de milho flocada,farinha de milho para cuscuz,cuscuz
+Farinha de arroz|farinha de arroz branco,farinha de arroz integral,farinha de arroz fina
+Farinha de aveia|aveia em pó,farinha de aveia integral,farinha de aveia sem glúten
+Farinha de amêndoas|farinha de amendoas,amêndoas moídas,farinha de amêndoa
+Farinha de coco|farinha de coco seco,farinha de coco orgânica,farinha de coco sem açúcar
+Farinha de grão-de-bico|farinha de grão de bico,farinha de grão de bico crua,besan
+Farinha de linhaça|linhaça moída,farinha de linhaça dourada,farinha de linhaça marrom
+Farinha de banana verde|farinha de banana,farinha de banana-verde
+Biomassa de banana verde|biomassa de banana,biomassa
+Farinha de centeio|centeio em pó,farinha de centeio integral
+Farinha de soja|soja em pó
+Farinha de tapioca|farinha de tapioca,tapioca,tapioca seca,tapioca granulada,farinha de tapioca flocada
+Goma de tapioca|goma,goma hidratada,goma de mandioca,goma de tapioca hidratada,goma de tapioca pronta
+Polvilho doce|polvilho doce,polvilho,polvilho de mandioca,polvilho doce de mandioca
+Polvilho azedo|polvilho azedo,polvilho azedo de mandioca
+Amido de milho|maisena,maizena,amido de milho (maisena),amido,fécula de milho,amido de milho tradicional,creme de milho em pó
+Fécula de batata|fécula,fecula de batata,fécula de batata inglesa,amido de batata
+Fécula de mandioca|fécula de mandioca,fecula de mandioca,amido de mandioca
+Farinha de castanha|farinha de castanha de caju,farinha de castanha-do-pará
+Farinha de arroz glutinoso|farinha de arroz glutinoso,arroz glutinoso moído,mochiko,farinha de mochi
+Farinha de berinjela|farinha de berinjela
+Farinha de quinoa|farinha de quinoa
+Farinha de abóbora|farinha de abóbora
+Farinha de uva|farinha de semente de uva
+Farinha de maracujá|farinha de casca de maracujá
+Farinha de batata doce|farinha de batata-doce
+Farinha de lentilha|farinha de lentilha
+Fermento biológico seco|fermento seco,fermento biológico instantâneo,fermento biológico,fermento de pão,fermento para pão,fermento instantâneo,fermento biológico seco instantâneo
+Fermento biológico fresco|fermento fresco,fermento em tablete,fermento biológico em tablete,fermento de padaria
+Fermento em pó|fermento químico,fermento em pó químico,fermento royal,fermento para bolo,fermento químico em pó,royal,fermento
+Bicarbonato de sódio|bicarbonato,bicarbonato de sodio,bicarbonato de sódio alimentício
+Cremor de tártaro|cremor tártaro
+Gelatina sem sabor|gelatina incolor,gelatina em pó sem sabor,gelatina neutra,gelatina em folha,gelatina branca
+Gelatina em pó|gelatina,gelatina de morango,gelatina de limão,gelatina sabor,gelatina de frutas
+Ágar-ágar|agar-agar,agar agar,agar
+Goma xantana|xantana
+Pectina|pectina cítrica,pectina para geleia
+Essência de baunilha|baunilha,extrato de baunilha,aroma de baunilha,essência de baunilha artificial,essência baunilha,essência de baunilha natural
+Fava de baunilha|baunilha em fava,vagem de baunilha,fava baunilha
+Corante alimentício|corante,corante comestível,anilina,corante em gel,corante em pó
+Aromatizante|aroma,essência,aroma de laranja,aroma de limão
+# Oleaginosas, castanhas e sementes
+Amêndoa|amêndoas,amendoa,amêndoa laminada,amêndoa inteira,amêndoa torrada,amêndoas laminadas,lâminas de amêndoa
+Castanha-do-pará|castanha do pará,castanha do brasil,castanha-do-brasil,castanha do para,castanhas do pará
+Castanha de caju|castanha de cajú,castanhas de caju,castanha de caju torrada,castanha de caju crua,caju castanha
+Castanha portuguesa|castanhas portuguesas,castanha,marrom glacê
+Noz|nozes,noz pecã,noz-pecã,nozes picadas,nozes inteiras,noz comum
+Noz-pecã|pecã,pecan,nozes pecan,noz pecan
+Avelã|avelãs,avelã torrada,avelã inteira,avelã sem casca,avelã moída
+Pistache|pistaches,pistache sem casca,pistache torrado,pistache salgado,pistache em pó
+Macadâmia|macadamia,noz macadâmia,noz de macadâmia,nozes de macadâmia
+Pinhão|pinhão cozido,pinhões,pinhão cru,pinhão descascado,semente de araucária
+Pinoli|pinolis,pinhão europeu,pine nuts,pinhões europeus
+Semente de abóbora|pepita,pepitas,pepita de abóbora,semente de abobora,sementes de abóbora,pepitas de abóbora
+Semente de girassol|girassol,sementes de girassol,semente de girassol torrada,semente de girassol crua,sementes de girassol sem casca
+Gergelim|sésamo,sementes de gergelim,gergelim branco,gergelim preto,gergelim torrado,gergelim cru,sesame,semente de gergelim
+Gergelim preto|sésamo preto,gergelim negro
+Chia|semente de chia,sementes de chia,chia em grãos,chia em pó,chia branca,chia preta
+Linhaça|semente de linhaça,sementes de linhaça,linhaça dourada,linhaça marrom,linhaça em grãos
+Linhaça dourada|linhaça amarela
+Papoula|semente de papoula,sementes de papoula,papoula azul
+Psyllium|psilium,casca de psyllium,psyllium husk,fibra de psyllium
+Tahine|tahini,tahine pasta,pasta de gergelim,tahini pasta,pasta tahine,tahine puro
+Pasta de castanha|pasta de castanha de caju,pasta de castanha do pará,manteiga de castanha de caju
+Pasta de amêndoa|manteiga de amêndoa,pasta de amêndoas
+Pasta de avelã|creme de avelã,nutella,pasta de avelã com cacau,creme de avelã com cacau,avelã creme
+Pasta de cacau|pasta de chocolate,cacau em pasta
+Cacau em pó|cacau 100%,cacau em pó 100%,cacau em pó alcalino,chocolate em pó 100%,cacau puro,cacau alcalino,cacau solúvel
+Nibs de cacau|nibs,cacau nibs,nibs de cacau torrado
+Goji berry|goji,goji berries,baga de goji,gojiberry
+Ameixa seca|ameixa-seca,ameixas secas,ameixa preta seca,ameixa sem caroço,ameixa seca sem caroço
+Damasco seco|damascos secos,damasco desidratado,damasco turco,damasco seco turco
+Figo seco|figos secos,figo desidratado,figo turco,figo seco turco
+Banana-passa|banana passa,banana seca,banana desidratada,banana chips,chips de banana
+Tâmara seca|tâmaras secas,tâmara desidratada,tâmara seca sem caroço
+Cranberry seco|cranberry desidratado,cranberries,oxicoco seco,cranberry em passas
+Coco em lascas|lascas de coco,coco laminado,coco chips,chips de coco,coco desidratado em lascas
+Coco ralado úmido|coco ralado úmido e adoçado,coco ralado adoçado,coco ralado fresco adoçado
+Mix de castanhas|mix de nuts,mix de oleaginosas,castanhas variadas,mix de castanhas e frutas secas,trail mix,mix de frutas secas
+Amendoim confeitado|amendoim doce,amendoim japonês,amendoim colorido,amendoim com açúcar,amendoim confeitado colorido
+Paçoca|paçoca de amendoim,paçoca rolha,paçoca de rolha,paçoquinha,paçoca esfarelada
+Castanha de baru|baru,amêndoa de baru
+Noz de cola|cola
+Noz-moscada|noz moscada,noz-moscada em pó,noz moscada ralada,noz-moscada ralada,noz moscada em pó
+Uva passa preta
+Sementes mistas|mix de sementes,sementes variadas,mix de sementes e grãos
+Semente de cânhamo|cânhamo,hemp seeds,semente de cânhamo descascada
+# Temperos e especiarias
+Sal|sal refinado,sal fino,sal de cozinha,sal comum,sal iodado,sal a gosto,sal marinho,sal grosso,sal do himalaia|b
+Sal grosso|sal grosso de churrasco,sal marinho grosso,sal grosso marinho,sal para churrasco,sal de parrilla
+Sal rosa do himalaia|sal rosa,sal do himalaia,sal rosa himalaia,sal himalaia,himalaia
+Sal marinho|sal do mar,sal marinho fino,sal marinho refinado,flor de sal
+Flor de sal|fleur de sel,sal flor
+Sal light|sal reduzido em sódio,sal com baixo teor de sódio,sal light de potássio
+Sal de aipo|celery salt,sal de salsão
+Sal de alho|sal com alho,sal temperado com alho,sal de alho e ervas
+Pimenta-do-reino|pimenta do reino,pimenta preta,pimenta-preta,pimenta do reino moída,pimenta-do-reino moída,pimenta do reino em pó,pimenta do reino preta,pimenta preta moída,pimenta do reino a gosto,pimentão do reino|b
+Pimenta-do-reino branca|pimenta branca,pimenta do reino branca,pimenta-branca,pimenta branca moída
+Pimenta-do-reino em grãos|pimenta em grãos,pimenta preta em grãos,pimenta do reino em grão,pimenta em grão,pimenta-do-reino em grão
+Pimenta rosa|pimenta-rosa,pimenta rosa em grãos,pink pepper,baga rosa,pimenta rosé
+Pimenta verde|pimenta-verde,pimenta verde em conserva,pimenta verde em grão
+Pimenta calabresa|calabresa seca,pimenta calabresa em flocos,pimenta calabresa moída,flocos de pimenta,pimenta em flocos,pimenta vermelha em flocos,pimenta calabresa seca
+Pimenta dedo-de-moça|dedo de moça,pimenta dedo de moça,dedo-de-moça,pimenta vermelha,pimenta dedo de moça fresca,pimenta dedo-de-moça,pimenta-dedo-de-moça
+Pimenta malagueta|malagueta,pimenta-malagueta,malaguetas,pimenta malagueta vermelha,pimenta malagueta verde,pimenta malagueta fresca
+Pimenta biquinho|biquinho,pimenta-biquinho,pimenta biquinho em conserva,pimenta biquinho fresca,pimenta de bico
+Pimenta de cheiro|pimenta-de-cheiro,pimenta cheirosa,pimenta de cheiro amarela,pimenta de cheiro vermelha,pimenta cumari,cumari
+Pimenta jalapeño|jalapeño,jalapeno,pimenta jalapeno,pimenta jalapeña,jalapeño em conserva,jalapeños
+Pimenta caiena|cayenne,pimenta cayenne,caiena,pimenta de caiena,pimenta-de-caiena,pimenta caiena em pó
+Pimenta habanero|habanero,pimenta habanera,habanero fresco
+Pimenta chipotle|chipotle,chipotle em pó,chipotle em adobo,pimenta chipotle em adobo
+Pimenta ancho|ancho,pimenta ancho em pó
+Pimenta síria|pimenta-síria,pimenta síria em pó,baharat,baharat tempero árabe
+Pimenta de sichuan|pimenta de szechuan,pimenta sichuan,pimenta szechuan,sichuan pepper,pimenta-de-sichuan,pimenta chinesa
+Pimenta-da-jamaica|pimenta da jamaica,pimenta jamaica,allspice,pimenta-da-jamaica moída,pimenta jamaicana
+Pimentão em pó|pimentão desidratado,pimentão seco em pó,pimentão vermelho em pó
+Páprica|páprica doce,páprica picante,páprica defumada,paprica,paprika,páprica em pó,páprica húngara,páprica espanhola,pimentón,pimenton
+Páprica doce|páprica doce em pó,paprica doce,páprica suave,paprica suave
+Páprica picante|páprica forte,páprica picante em pó,páprica apimentada
+Páprica defumada|paprica defumada,páprica defumada doce,páprica defumada picante,pimentón de la vera,smoked paprika
+Colorau|colorífico,urucum,urucum em pó,colorau em pó,corante de urucum,colorífico em pó,corante natural,urucu,urucú,colorau em pó 100%
+Urucum em grãos|urucum em sementes,sementes de urucum,urucu em grão
+Açafrão-da-terra|cúrcuma,curcuma,cúrcuma em pó,açafrão da terra,açafrão-da-índia,açafrão da índia,turmeric,curcuma longa,açafrão da terra em pó,cúrcuma fresca,cúrcuma ralada
+Açafrão|açafrão em fios,açafrão espanhol,açafrão verdadeiro,saffron,açafrão em pistilos,fios de açafrão,açafrão legítimo
+Cominho|cominho em pó,cominho moído,cominho em grãos,cominho em sementes,cumin,cominho em grão,sementes de cominho
+Cominho preto|cominho negro,nigella,sementes de nigella,black cumin,kalonji
+Canela|canela em pó,canela em pau,pau de canela,canela moída,canela-da-china,canela do ceilão,canela cassia,canela de pau,paus de canela,canela em rama,canela em casca,canela do ceylão
+Canela em pau|pau de canela,canela em rama,canela de pau,paus de canela,canela em casca
+Cravo|cravo-da-índia,cravo da índia,cravos,cravo em pó,cravo em botão,cravinho,cravo moído,cravos-da-índia,cravo em grão
+Noz-moscada em pó
+Macis|flor de noz-moscada
+Curry|curry em pó,pó de curry,curry amarelo,curry madras,curry suave,curry picante,pasta de curry,curry vermelho,curry verde,curry tailandês
+Pasta de curry vermelho|curry vermelho pasta,red curry paste,pasta de curry vermelha,pasta de curry thai,pasta curry
+Pasta de curry verde|curry verde pasta,green curry paste,pasta de curry verde thai
+Garam masala|garam massala,garam marsala,garam masalla,masala,mix garam masala
+Tandoori masala|tandoori,tempero tandoori,tikka masala,tempero tikka masala
+Ras el hanout|ras-el-hanout,raz el hanout,ras el hanut,tempero marroquino
+Zaatar|za'atar,zatar,zaatar tempero,zataar,tempero zaatar,za-atar
+Sumac|sumagre,sumaco,sumac em pó,sumagre em pó,tempero sumac
+Cardamomo|cardamomo em pó,cardamomo em grãos,cardamomo verde,cardamomo em sementes,cardamomo moído,cardamomo em vagem,cardamomo preto,cardamomo em vagens
+Anis-estrelado|anis estrelado,badiana,anis,anis estrela,estrela de anis,anis em estrela,anis-estrela
+Anis|anis em grãos,anis em sementes,semente de anis,sementes de anis,erva doce semente
+Erva-doce em grãos|semente de erva-doce,sementes de erva-doce,semente de funcho,sementes de funcho,erva-doce semente,erva doce seca
+Coentro em pó|coentro moído,coentro seco,coentro em grãos,coentro em semente,sementes de coentro,coentro desidratado,semente de coentro
+Gengibre em pó|gengibre moído,gengibre seco,gengibre desidratado,ginger em pó,gengibre ralado
+Alho em pó|alho desidratado,alho granulado,alho seco,alho desidratado em pó,alho moído,pó de alho,alho em flocos
+Cebola em pó|cebola desidratada,cebola granulada,cebola seca,cebola em flocos,pó de cebola,cebola desidratada em pó,cebola moída
+Alho frito|alho frito pronto,alho crocante,alho crispy,alho frito em lascas,alho frito crocante
+Alho assado|alho confitado,alho confit,alho assado em pasta,pasta de alho assado
+Alho em conserva|alho em conserva,alho picado,alho triturado,alho amassado,pasta de alho,alho pronto,alho em pasta,alho moído em conserva,alho pasta
+Cebola frita|cebola frita crocante,cebola crispy,cebolinha frita,cebola frita pronta,cebola frita em flocos,crispy onion,cebola crocante
+Cebola em conserva|cebolinha em conserva,cebola pérola em conserva,cebolinhas em conserva,cebola agridoce,cebola caramelizada pronta
+Alho-poró desidratado|alho-poró em pó
+Salsinha desidratada|salsa desidratada,salsa seca,salsinha seca,salsa em flocos,salsinha em flocos,salsa desidratada em flocos
+Cebolinha desidratada|cebolinha seca,cebolinha em flocos,cebolinha desidratada em flocos
+Cheiro-verde desidratado|tempero verde desidratado,cheiro verde seco,cheiro verde em flocos
+Manjericão seco|manjericão desidratado,manjericao seco,manjericão em flocos,manjericão desidratado em flocos,basil seco
+Alecrim seco|alecrim desidratado,alecrim em folhas,alecrim em pó,alecrim em flocos,alecrim desidratado em folhas
+Tomilho seco|tomilho desidratado,tomilho em folhas,tomilho em pó,tomilho em flocos
+Sálvia seca|sálvia desidratada,sálvia em folhas,sálvia em pó
+Orégano seco|orégano desidratado,oregano seco,orégano em folhas,orégano em flocos,orégano em pó,orégano desidratado em folhas,oregano desidratado,orégano
+Manjerona seca|manjerona desidratada,manjerona em folhas,manjerona em pó
+Hortelã seca|hortelã desidratada,hortelã em folhas,menta seca,menta desidratada,hortelã em flocos
+Endro seco|dill seco,dill desidratado,endro desidratado,aneto seco
+Estragão seco|estragão desidratado,estragão em folhas,tarragon seco
+Louro em pó|louro moído,louro desidratado em pó
+Louro seco|folha de louro seca,folhas de louro secas,louro desidratado,louro em folhas,louro em folha seco
+Mix de ervas|ervas mistas,ervas variadas,ervas do campo,mix de ervas secas,mix de ervas finas,ervas finas desidratadas,ervas mistas desidratadas
+Ervas finas|ervas finas mix,ervas de provence,herbes de provence,ervas de provença,ervas de provance,provence
+Ervas italianas|mix de ervas italianas,tempero italiano,ervas italianas desidratadas,erva italiana,italian seasoning,tempero de ervas italianas,mix italiano
+Bouquet garni|buquê garni,buquê de ervas,bouquet de ervas,ramo de ervas,ramo de ervas aromáticas,buquê aromático
+Tempero baiano|tempero baiano em pó,baiano,tempero baiano completo,mix baiano
+Tempero completo|tempero pronto,tempero completo com pimenta,tempero completo sem pimenta,tempero caseiro,tempero em pasta,tempero pasta,tempero pronto em pasta,tempero de alho e sal,alho e sal
+Tempero para churrasco|tempero de churrasco,sal para churrasco temperado,tempero churrasco,tempero para carne,tempero de carne,tempero para assados,tempero pra carne
+Tempero para frango|tempero de frango,tempero pra frango,tempero para aves,tempero de galinha,tempero para frango assado,tempero para peixe
+Tempero para peixe|tempero de peixe,tempero pra peixe,tempero para frutos do mar
+Tempero para legumes|tempero de legumes,tempero pra legumes,tempero para verduras
+Tempero para arroz|tempero de arroz,tempero pra arroz,arroz temperado,tempero de arroz pronto
+Tempero para feijão|tempero de feijão,tempero pra feijão
+Tempero verde|tempero fresco,cheiro verde picado,salsa e cebolinha,salsinha e cebolinha,cheiro-verde picado,tempero de salsa e cebolinha
+Tempero mexicano|tempero para tacos,tempero taco,taco seasoning,fajita,tempero de fajita,mix mexicano,tempero para fajita,tempero pra tacos
+Tempero cajun|cajun,tempero cajun americano,cajun seasoning,tempero louisiana
+Tempero shawarma|shawarma,tempero para shawarma,tempero árabe,tempero para kafta,tempero pra kafta,tempero kafta,sete especiarias,mix de especiarias árabes,tempero sete especiarias,especiarias árabes,7 especiarias
+Tempero chimichurri|chimichurri,chimichurri pronto,chimichurri argentino,chimichurri desidratado,chimichurri em pó,molho chimichurri
+Tempero sazón|sazón,sazon,sazón tempero,tempero sazon,sazón goya
+Tempero jerk|jerk,tempero jamaicano,jerk seasoning,tempero jerk jamaicano
+Tempero de cebola e alho|cebola e alho,tempero cebola e alho
+Tempero de pizza|tempero para pizza,tempero pizza,tempero italiano pizza,tempero pra pizza
+Tempero para pipoca|tempero de pipoca,sal de pipoca,tempero pra pipoca,tempero para pipoca sabor,pó de queijo para pipoca,tempero queijo para pipoca,pó de queijo,queijo em pó,queijo em pó para pipoca,cheddar em pó
+Tempero para batata|tempero de batata,tempero para batata frita,tempero pra batata,tempero para batatas,batata rústica temperada,tempero para batata rústica,páprica para batata
+Tempero para macarrão|tempero de macarrão,tempero pra macarrão,tempero para massas,tempero de massas
+Tempero para salada|tempero de salada,tempero pra salada,tempero para saladas
+Tempero oriental|tempero asiático,tempero para yakisoba,tempero de yakisoba,tempero yakissoba,tempero pra yakisoba,tempero chinês,tempero japonês,mix oriental,especiarias orientais,cinco especiarias,cinco especiarias chinesas,five spice,chinese five spice
+Tempero hondashi|hondashi,hon dashi,dashi,dashi em pó,hon-dashi,caldo de peixe japonês,caldo dashi,pó de dashi,dashi instantâneo,ajinomoto hondashi
+Tempero furikake|furikake,furikake japonês,tempero de arroz japonês,furikake de nori,furikake de gergelim,tempero furikake nori
+Tempero shichimi|shichimi,shichimi togarashi,togarashi,tempero shichimi togarashi,pimenta japonesa,pimenta togarashi,sete temperos japoneses,7 especiarias japonesas
+Tempero adobo|adobo,adobo mexicano,adobo seco,adobo goya
+Tempero de ervas e alho|ervas e alho,alho e ervas,alho com ervas,tempero alho e ervas,sal de ervas,sal de ervas finas,sal com ervas,sal temperado,sal de ervas aromáticas
+Glutamato monossódico|glutamato,ajinomoto,aji-no-moto,realçador de sabor,glutamato de sódio,msg,tempero ajinomoto,ajinomoto glutamato,ajinomoto em pó
+Caldo de carne|caldo de carne em cubo,tablete de caldo de carne,caldo knorr,cubo de carne,caldo de carne em pó,caldo de carne em tablete,knorr carne,caldo de carne maggi,caldo maggi carne,caldo de costela,caldo de carne caseiro,caldo de boi
+Caldo de galinha|caldo de galinha em cubo,tablete de caldo de galinha,caldo knorr galinha,cubo de galinha,caldo de galinha em pó,knorr galinha,caldo de galinha maggi,caldo maggi galinha,caldo de frango,caldo de frango em cubo,caldo de frango caseiro,caldo de galinha caseiro,cubo de frango,caldo de aves
+Caldo de legumes|caldo de legumes em cubo,tablete de caldo de legumes,caldo de legumes caseiro,caldo de vegetais,cubo de legumes,caldo de legumes em pó,caldo vegetal,caldo de hortaliças,knorr legumes,caldo de verduras
+Caldo de peixe|caldo de peixe em cubo,caldo de peixe caseiro,fumet,fumet de peixe,caldo de peixe em pó,cubo de peixe,tablete de caldo de peixe
+Caldo de camarão|caldo de camarão em cubo,caldo de camarao,fumet de camarão,caldo de crustáceos,cubo de camarão,caldo de camarão caseiro
+Caldo de bacon|caldo de bacon em cubo,cubo de bacon,caldo de bacon tablete,knorr bacon
+Caldo de feijão|caldo de feijão pronto,caldo de feijão em lata,caldo de feijão preto pronto,caldo de feijão instantâneo
+Caldo de cana|garapa,caldo de cana puro,caldo de cana natural,garapa de cana,caldo de cana gelado
+Caldo de osso|bone broth,caldo de ossos,caldo de osso caseiro,caldo de ossos bovinos,caldo ósseo,caldo de carne de osso
+Extrato de carne|extrato de carne em pasta,glace de carne,demi-glace,demi glace,glace,fundo de carne,fundo escuro,fundo de vitela,fundo de carne caseiro,fundo marrom,fundo de ave,fundo claro
+Fundo de legumes|fundo vegetal,fundo de vegetais,fundo de legumes caseiro
+Água|água filtrada,água mineral,água potável,agua,água quente,água fria,água gelada,água morna,água fervente,água natural,água da torneira|b
+Gelo|gelo em cubos,cubos de gelo,gelo picado,gelo triturado,gelo moído,pedras de gelo,gelo em pedra,gelo em pó
+# Molhos e condimentos
+Ketchup|catchup,catchup tradicional,ketchup tradicional,ketchup picante,ketchup heinz,catsup,ketchup de tomate,ketchup caseiro,molho ketchup
+Mostarda|mostarda amarela,mostarda tradicional,mostarda em pasta,mostarda dijon,dijon,mostarda dijon,mostarda escura,mostarda em grãos,mostarda antiga,mostarda de dijon,mostarda inglesa,mostarda americana,mostarda picante,mostarda em pó,mostarda doce,mostarda e mel
+Mostarda em grãos|mostarda em grão,mostarda à moda antiga,mostarda antiga em grãos,sementes de mostarda,semente de mostarda,grão de mostarda,grãos de mostarda,mostarda em semente
+Mostarda dijon|dijon,mostarda de dijon,mostarda francesa
+Mostarda e mel|mostarda com mel,honey mustard,molho mostarda e mel,molho de mostarda e mel,mostarda mel,molho de mostarda com mel
+Maionese|maionese tradicional,maionese light,maionese caseira,maionese hellmanns,maionese vegana,maionese temperada,maionese de alho,maionese defumada,maionese com ervas,maionese picante,maionese de ervas,maionese tradicional light,maionese de bacon,molho de maionese,maionese de garrafa,maionese de sachê,maionese hellmann's,maionese de pote,maionese em squeeze,maionese zero,maionese leve,mayonnaise,mayo
+Molho de tomate|molho de tomate pronto,sugo,molho de tomate caseiro,molho de tomate tradicional,molho de tomate com manjericão,molho de tomate refogado,passata,molho de tomate italiano,molho pomarola,pomarola,molho de tomate em sachê,molho de tomate em lata,molho de tomate pelati,molho pronto de tomate,molho sugo,molho napolitano,molho de tomate em caixinha,molho de tomate fresco,sugo di pomodoro,molho de tomate com ervas,molho de tomate com cebola,molho de tomate picante,molho de tomate rústico
+Extrato de tomate|massa de tomate,massa de tomate pronta,extrato de tomate concentrado,pasta de tomate,tomate concentrado,purê de tomate,polpa de tomate,extrato de tomate em lata,extrato de tomate em sachê,extrato de tomate em tubo,massa de tomates,extrato tomate,concentrado de tomate,tomate em pasta,tomate pasta,tomato paste,massa de tomate em lata
+Tomate pelado|tomate pelado em lata,tomates pelados,tomate pelado enlatado,tomate em lata,tomates em lata,pelati,tomate pelado inteiro,tomate em conserva,tomate pelado em conserva,tomates em conserva,tomate pelado em cubos,tomate em cubos,tomate picado em lata,tomate picado enlatado,tomate cubos em lata,tomate cubo,tomate italiano em lata,tomate italiano pelado
+Tomate em cubos|tomate picado em lata,tomate cortado em cubos,tomate triturado,tomate em pedaços,tomate triturado em lata,tomate em pedaços em lata,tomates triturados
+Polpa de tomate|polpa de tomate pronta,polpa de tomate em caixinha,polpa de tomate tradicional,polpa de tomates,tomate em polpa,polpa de tomate em lata,polpa de tomate com ervas,polpa de tomate fresco
+Molho shoyu|shoyu,molho de soja,shoyu light,shoyu tradicional,molho shoyo,soy sauce,shoyu japonês,shoyo,molho de soja japonês,shoyu sodium reduced,shoyu orgânico,shoyu sem glúten,shoyu premium,shoyu tradicional japonês,molho de soja light,molho de soja tradicional,molho de soja escuro,molho de soja claro,molho de soja doce,shoyu doce,shoyu com baixo teor de sódio,tamari,molho tamari,molho de soja tamari,molho de soja sem glúten,shoyu tamari
+Molho inglês|molho worcestershire,worcestershire,molho inglês tradicional,molho ingles,molho inglês lea perrins,lea perrins,molho worcester,molho worcestershire tradicional,molho inglês original,molho inglês light,molho inglês caseiro
+Molho de pimenta|molho picante,molho de pimenta vermelha,tabasco,molho tabasco,sriracha,molho sriracha,molho de pimenta tabasco,molho de pimenta caseiro,molho de pimenta malagueta,molho de pimenta dedo-de-moça,molho de pimenta biquinho,molho de pimenta jalapeño,molho de pimenta habanero,molho de pimenta pronto,molho de pimenta em conserva,molho de pimenta sriracha,molho de pimenta forte,molho picante forte,molho picante suave,molho de pimenta suave,molho de pimenta doce,molho de pimenta agridoce,molho de pimenta cayenne,molho de pimenta tailandês,molho de pimenta thai,molho de pimenta asiático,molho de pimenta chinês,molho de pimenta japonês,molho hot,hot sauce,molho de pimenta hot,molho de pimenta louisiana,louisiana hot sauce,molho de pimenta frank's,franks red hot,molho de pimenta cholula,cholula,molho de pimenta valentina,valentina,molho de pimenta tapatío,tapatío,molho de pimenta chipotle,molho chipotle,molho de pimenta chimichurri
+Molho barbecue|barbecue,molho bbq,bbq,molho barbecue defumado,molho barbecue tradicional,molho churrasco,molho de churrasco,barbecue sauce,molho barbecue doce,molho barbecue picante,molho barbecue americano,molho barbecue caseiro,molho bbq tradicional,molho bbq defumado,molho bbq doce,molho bbq picante,molho barbecue com mel,molho barbecue jack daniels,molho barbecue heinz,molho barbecue hellmanns,molho barbecue cuiabano,molho barbecue brasileiro,molho de churrasco brasileiro,molho de churrasco americano
+Molho pesto|pesto,pesto de manjericão,pesto genovês,molho pesto genovese,pesto alla genovese,pesto verde,pesto caseiro,molho pesto caseiro,pesto vermelho,pesto de tomate seco,pesto de rúcula,pesto de espinafre,pesto de salsa,pesto de coentro,pesto de castanha,pesto de nozes,pesto de pistache,pesto de amêndoas
+Molho branco|molho bechamel,bechamel,molho béchamel,béchamel,molho branco pronto,molho branco caseiro,molho branco tradicional,molho branco para lasanha,molho branco para gratinar,molho branco cremoso,molho branco light,molho branco de queijo,molho de queijo,molho quatro queijos,molho 4 queijos,molho de queijo cremoso,molho de queijo cheddar,molho cheddar,molho de queijo parmesão,molho parmesão,molho alfredo,alfredo,molho fettuccine alfredo,molho alfredo pronto,molho alfredo caseiro,molho cremoso,molho cremoso de queijo,molho cremoso branco
+Molho teriyaki|teriyaki,molho tarê,molho tare,tare,teriyaki sauce,molho teriyaki caseiro,molho teriyaki pronto,molho teriyaki japonês,molho teriyaki tradicional,molho teriyaki doce,molho teriyaki com gengibre,molho tarê japonês,tarê,molho tarê pronto,molho tarê caseiro,molho tarê tradicional,molho tarê doce
+Molho agridoce|agridoce,molho agridoce chinês,molho agridoce pronto,molho agridoce caseiro,molho agridoce tradicional,molho agri-doce,molho sweet and sour,sweet and sour,sweet and sour sauce,molho agridoce de abacaxi,molho agridoce de pimenta,molho de pimenta agridoce,molho agridoce de tomate,molho agridoce de frutas
+Molho de ostra|molho de ostras,oyster sauce,molho oyster,molho de ostra pronto,molho de ostra chinês,molho de ostra tradicional,molho de ostra premium,molho de ostra vegetariano,molho de ostra vegano,molho de cogumelo,molho de cogumelos,molho vegetariano de ostra
+Molho de peixe|fish sauce,molho de peixe tailandês,molho de peixe vietnamita,nam pla,nuoc mam,molho de peixe fermentado,molho de anchova,molho de peixe asiático,molho de peixe tradicional,molho de peixe pronto,molho de peixe caseiro,molho de peixe premium,molho de peixe vegano,molho de peixe vegetariano
+Molho hoisin|hoisin,molho hoisin chinês,hoisin sauce,molho hoisin pronto,molho hoisin tradicional,molho hoisin vegano,molho hoisin vegetariano,molho hoisin caseiro,molho hoisin premium
+Molho de alho|molho de alho caseiro,molho de alho pronto,molho de alho tradicional,molho de alho cremoso,molho de alho com ervas,molho de alho assado,molho de alho picante,molho de alho com maionese,molho de alho libanês,toum,molho toum,alho libanês,pasta de alho libanesa,molho de alho árabe,molho de alho para churrasco,molho de alho para espetinho,molho de alho para pizza,molho de alho para pão
+Molho rosé|molho rose,molho rosê,molho rosé cremoso,molho rosé caseiro,molho rosé pronto,molho rosé tradicional,molho rosé de camarão,molho rosé de frango,molho rosé de queijo,molho rosé de tomate,molho rosé com creme de leite,molho rosé com requeijão,molho rosé com cream cheese,molho rosé de salmão,molho rosé de atum
+Molho de iogurte|molho de iogurte natural,molho de iogurte com hortelã,molho de iogurte para salada,molho de iogurte para carne,molho de iogurte grego,molho de iogurte caseiro,molho de iogurte pronto,molho tzatziki,tzatziki,tsatsiki,tzaziki,molho de pepino,molho grego,molho árabe,molho de iogurte árabe,molho de iogurte com alho,molho de iogurte e hortelã,molho de iogurte para falafel,molho de iogurte para kebab
+Molho ranch|ranch,molho ranch pronto,molho ranch caseiro,molho ranch tradicional,ranch dressing,molho ranch cremoso,molho ranch light,molho ranch de ervas,molho ranch com bacon,molho ranch picante,molho ranch com queijo
+Molho caesar|caesar,molho cesar,cesar,molho caesar pronto,molho caesar caseiro,molho caesar tradicional,caesar dressing,molho caesar light,molho caesar cremoso,molho caesar de frango,molho caesar de anchova,molho para salada caesar,molho cesar pronto,molho cesar caseiro,molho cesar tradicional,molho cesar light,molho cesar cremoso
+Molho de salada|molho para salada,molho de salada pronto,molho de salada caseiro,molho de salada italiano,molho italiano,italian dressing,molho de salada francês,molho francês,molho de salada de ervas,molho de ervas,molho de salada de azeite,molho de azeite e limão,molho de azeite e vinagre,molho de vinagrete,vinagrete,molho vinagrete,vinagrete caseiro,vinagrete pronto,molho de vinagrete caseiro,molho de vinagrete pronto,molho de salada de mostarda,molho de salada de mel,molho de salada de limão,molho de salada de laranja,molho de salada de maracujá,molho de salada de iogurte,molho de salada de maionese,molho de salada de tahine,molho de salada de gergelim,molho de salada de shoyu,molho de salada oriental,molho oriental,molho de salada japonês,molho japonês,molho de gergelim,molho goma,molho goma japonês,molho goma de gergelim,molho de gergelim japonês,molho de gergelim e shoyu
+Vinagrete|vinagrete de tomate,vinagrete de cebola,vinagrete para churrasco,vinagrete para feijoada,vinagrete tradicional,vinagrete caseiro,vinagrete brasileiro,vinagrete de tomate e cebola,vinagrete de pimentão,vinagrete mineiro,vinagrete de pepino,vinagrete de milho,vinagrete de manga,vinagrete de abacaxi,vinagrete de frutas
+Molho madeira|molho demi glace,molho demi-glace,molho madeira pronto,molho madeira caseiro,molho madeira tradicional,molho madeira para carne,molho madeira para filé,molho madeira para medalhão,molho madeira com cogumelos,molho madeira com champignon,molho madeira com vinho,molho de vinho tinto,molho de vinho,molho de vinho para carne,molho de vinho para filé,molho de vinho do porto,molho de vinho do porto para carne,molho de vinho do porto para filé
+Molho de cogumelos|molho de champignon,molho de champignons,molho de cogumelo,molho de cogumelo pronto,molho de cogumelo caseiro,molho de cogumelo para carne,molho de cogumelo para filé,molho de cogumelo para massa,molho de cogumelo para frango,molho de cogumelo cremoso,molho de cogumelo com creme,molho de cogumelo com vinho,molho de cogumelo com shoyu,molho de cogumelo com alho,molho de cogumelo com ervas,molho de cogumelo com bacon,molho de cogumelo com queijo,molho de cogumelo com mostarda,molho de cogumelo com limão,molho de cogumelo com manteiga
+Molho tártaro|tártaro,molho tartar,tartar,molho tártaro pronto,molho tártaro caseiro,molho tártaro tradicional,molho tártaro para peixe,molho tártaro para frutos do mar,molho tártaro com picles,molho tártaro com alcaparras,molho tártaro com pepino
+Molho cocktail|molho coquetel,molho de coquetel,molho cocktail de camarão,molho para camarão,molho rosé para camarão,molho de camarão,molho cocktail pronto,molho cocktail caseiro,molho cocktail tradicional
+Molho de amendoim|molho satay,satay,molho de amendoim asiático,molho de amendoim tailandês,molho de amendoim pronto,molho de amendoim caseiro,molho de amendoim para salada,molho de amendoim para espetinho,molho de amendoim para frango,molho de amendoim para carne,molho de amendoim para macarrão,molho de amendoim para rolinho,molho de amendoim para rolinho primavera,molho de amendoim e coco,molho de amendoim e shoyu,molho de amendoim e limão
+Pasta de missô|missô,miso,missô branco,missô vermelho,pasta de miso,miso branco,miso vermelho,pasta miso,pasta de missô branco,pasta de missô vermelho,missô shiro,missô aka,miso shiro,miso aka,missô tradicional,miso tradicional,missô instantâneo,miso instantâneo,sopa de missô,sopa de miso,missô em pasta,miso em pasta
+Gochujang|pasta de pimenta coreana,gochujang coreano,pasta gochujang,pasta de gochujang,molho gochujang,molho coreano,pasta coreana,pasta de pimenta,pasta de pimenta vermelha coreana
+Kimchi|kimchi coreano,kimchi pronto,kimchi caseiro,kimchi de acelga,kimchi de repolho,kimchi de pepino,kimchi de rabanete,kimchi picante,kimchi tradicional,conserva coreana,conserva de repolho coreana,repolho fermentado,repolho fermentado coreano,acelga fermentada
+Wasabi|wasabi em pasta,wasabi em pó,wasabi japonês,wasabi fresco,raiz de wasabi,pasta de wasabi,wasabi tradicional,wasabi verde,wasabi em tubo,wasabi em bisnaga,wasabi em sachê,raiz-forte,raiz forte,rábano,rábano picante,horseradish,raiz forte ralada,raiz-forte ralada,raiz-forte em pasta,raiz forte em pasta,raiz forte em conserva,raiz-forte em conserva,molho de raiz forte,molho de raiz-forte
+Gengibre em conserva|gari,gengibre para sushi,gengibre de sushi,gengibre em conserva para sushi,gengibre rosa,gengibre agridoce,gengibre em conserva agridoce,gengibre fatiado,gengibre em fatias
+Alga nori|nori,alga marinha,alga para sushi,folha de nori,folhas de nori,nori em folhas,nori torrado,nori para sushi,nori para temaki,nori para hossomaki,nori para uramaki,nori para onigiri,nori tostado,alga nori torrada,alga nori em folhas,alga nori para sushi,alga nori para temaki,alga nori em tiras,nori em tiras,tiras de nori,nori picado,nori em flocos,flocos de nori,nori em pó,pó de nori
+Alga wakame|wakame,wakame seco,wakame desidratado,alga wakame seca,alga wakame desidratada,wakame para sopa,wakame para salada,wakame em conserva,wakame fresco,wakame temperado,salada de wakame,alga marinha wakame
+Alga kombu|kombu,konbu,kombu seco,kombu desidratado,alga kombu seca,alga kombu desidratada,kombu para dashi,kombu para caldo,alga marinha kombu,alga kelp,kelp,alga kelp seca,kelp em pó,kombu em pó
+Alga hijiki|hijiki,hijiki seco,alga hijiki seca,alga hijiki desidratada
+Alga espirulina|espirulina,spirulina,espirulina em pó,espirulina em cápsulas,espirulina em comprimidos,alga espirulina,alga espirulina em pó
+Alga clorella|clorella,chlorella,clorela,clorella em pó
+Alga dulse|dulse,dulse flakes,flocos de dulse,alga dulse em flocos
+# Óleos, azeites, vinagres e gorduras
+Óleo de soja|óleo,oleo,óleo vegetal,óleo de cozinha,oleo de soja,óleo de soja refinado,óleo comum,óleo para fritar,óleo de fritura,óleo de milho,óleo de girassol,óleo de canola|b
+Óleo de milho|oleo de milho,óleo de milho refinado,óleo de milho comum
+Óleo de girassol|oleo de girassol,óleo de girassol refinado,óleo de girassol alto oleico
+Óleo de canola|oleo de canola,óleo de canola refinado,canola
+Óleo de coco|oleo de coco,óleo de coco extra virgem,óleo de coco extravirgem,óleo de coco sem sabor,óleo de coco neutro,óleo de coco orgânico,óleo de coco prensado a frio,óleo de coco refinado,gordura de coco,gordura de coco vegetal,manteiga de coco,coconut oil
+Óleo de gergelim|oleo de gergelim,óleo de gergelim torrado,óleo de gergelim puro,óleo de sésamo,óleo de gergelim tostado,óleo de gergelim japonês,óleo de gergelim asiático,óleo de gergelim preto,óleo de gergelim branco,óleo de gergelim prensado a frio,óleo de gergelim orgânico,sesame oil
+Óleo de amendoim|oleo de amendoim,óleo de amendoim refinado,óleo de amendoim para fritar,peanut oil
+Óleo de abacate|oleo de abacate,óleo de abacate extra virgem,óleo de abacate refinado,óleo de abacate orgânico,avocado oil
+Óleo de palma|dendê,azeite de dendê,óleo de dendê,oleo de dendê,azeite dendê,dende,dendê puro,azeite de dendê puro,palm oil,óleo de palma vermelho,óleo de dendê baiano,azeite de dendê baiano,azeite de dendê de cheiro,dendê de cheiro,azeite doce de dendê,azeite de dendê doce,azeite de dendê fino
+Azeite de oliva|azeite,azeite extra virgem,azeite de oliva extra virgem,azeite extravirgem,azeite de oliva extravirgem,azeite virgem,azeite de oliva virgem,azeite de oliva tradicional,azeite de oliva puro,azeite de oliva suave,azeite de oliva composto,azeite de oliva português,azeite português,azeite espanhol,azeite de oliva espanhol,azeite italiano,azeite de oliva italiano,azeite grego,azeite de oliva grego,azeite de oliva chileno,azeite chileno,azeite de oliva argentino,azeite argentino,azeite de oliva brasileiro,azeite brasileiro,azeite de oliva gallo,azeite gallo,azeite andorinha,azeite de oliva andorinha,azeite cocinero,azeite de oliva cocinero,azeite borges,azeite de oliva borges,azeite carbonell,azeite de oliva carbonell,azeite de oliva lisboa,azeite lisboa,azeite de oliva serra da estrela,azeite serra da estrela,azeite oliva|b
+Azeite de oliva extra virgem|azeite extra virgem,azeite extravirgem,azeite de oliva extravirgem,extra virgin olive oil,evoo,azeite de oliva extra-virgem,azeite extra-virgem,azeite de oliva ev
+Azeite trufado|óleo trufado,azeite com trufas,azeite de trufa,azeite de trufas,óleo de trufa,óleo de trufas,azeite aromatizado com trufa,azeite aromatizado de trufa,azeite aromatizado com trufas,truffle oil
+Azeite aromatizado|azeite aromatizado com alho,azeite com alho,azeite de alho,azeite aromatizado com ervas,azeite com ervas,azeite de ervas,azeite aromatizado com alecrim,azeite com alecrim,azeite de alecrim,azeite aromatizado com pimenta,azeite com pimenta,azeite de pimenta,azeite picante,azeite aromatizado com limão,azeite com limão,azeite de limão,azeite aromatizado com manjericão,azeite com manjericão,azeite de manjericão
+Gordura vegetal|gordura vegetal hidrogenada,gordura vegetal para fritura,gordura vegetal para pão,gordura vegetal para bolo,gordura vegetal para massa,gordura vegetal para torta,gordura vegetal para salgado,gordura vegetal para biscoito,gordura vegetal para pastel,gordura vegetal para empada,gordura hidrogenada,gordura de cozinha,shortening,gordura vegetal crisco,crisco,gordura vegetal primor,primor,gordura vegetal delícia,delícia,gordura vegetal cisne,gordura vegetal sadia
+Gordura de pato|gordura de pato confit,confit de pato,gordura de ganso,gordura de frango,gordura de galinha,schmaltz,gordura animal
+Spray de óleo|óleo em spray,azeite em spray,spray de azeite,spray culinário,spray de cozinha,óleo spray,azeite spray,spray antiaderente,spray de óleo de coco,spray de óleo de canola,spray de óleo de soja,spray de óleo vegetal,spray de óleo de oliva,spray de óleo de girassol,spray de óleo de milho
+Vinagre|vinagre branco,vinagre de álcool,vinagre de vinho branco,vinagre de vinho tinto,vinagre de maçã,vinagre de arroz,vinagre balsâmico,vinagre de cana,vinagre de frutas,vinagre de uva,vinagre de limão,vinagre de laranja,vinagre de abacaxi,vinagre de banana,vinagre de morango,vinagre de framboesa,vinagre de mel,vinagre de gengibre,vinagre de alho,vinagre de ervas,vinagre aromatizado,vinagre temperado|b
+Vinagre branco|vinagre de álcool,vinagre de álcool branco,vinagre incolor,vinagre transparente,vinagre neutro,vinagre comum,vinagre tradicional,vinagre de mesa,vinagre de cozinha,vinagre para salada,vinagre para conserva,vinagre para picles,vinagre para limpeza,vinagre destilado,vinagre branco destilado,vinagre de álcool destilado
+Vinagre de maçã|vinagre de cidra,vinagre de maçã orgânico,vinagre de maçã com a mãe,vinagre de maçã não filtrado,vinagre de maçã filtrado,vinagre de maçã natural,vinagre de maçã cru,vinagre de maçã integral,apple cider vinegar,acv,vinagre de maçã bragg,bragg,vinagre de maçã castelo,vinagre castelo,vinagre de maçã minhas,vinagre de maçã sacra,vinagre de maçã vida,vinagre de maçã natural life,vinagre de maçã nutrisanus,vinagre de maçã linea
+Vinagre balsâmico|balsâmico,vinagre balsamico,aceto balsâmico,aceto balsamico,balsamic vinegar,vinagre balsâmico de modena,balsâmico de modena,aceto balsamico di modena,vinagre balsâmico tradicional,vinagre balsâmico envelhecido,balsâmico envelhecido,vinagre balsâmico reduzido,balsâmico reduzido,glaze de balsâmico,glaze balsâmico,creme de balsâmico,creme balsâmico,vinagre balsâmico em creme,vinagre balsâmico em gel,vinagre balsâmico branco,balsâmico branco,aceto balsâmico branco,aceto balsamico bianco,vinagre balsâmico de framboesa,balsâmico de framboesa,vinagre balsâmico de figo,balsâmico de figo,vinagre balsâmico de maçã,balsâmico de maçã
+Vinagre de vinho tinto|vinagre tinto,vinagre de vinho,vinagre de vinho tinto tradicional,vinagre de vinho tinto envelhecido,vinagre de vinho tinto orgânico,vinagre de vinho tinto castelo,vinagre castelo tinto,vinagre de vinho tinto minhas,vinagre de vinho tinto sacra,vinagre de vinho tinto vida,vinagre de vinho tinto natural life
+Vinagre de vinho branco|vinagre branco de vinho,vinagre de vinho claro,vinagre de vinho branco tradicional,vinagre de vinho branco envelhecido,vinagre de vinho branco orgânico,vinagre de vinho branco castelo,vinagre castelo branco,vinagre de vinho branco minhas,vinagre de vinho branco sacra,vinagre de vinho branco vida,vinagre de vinho branco natural life
+Vinagre de arroz|vinagre de arroz japonês,vinagre de arroz temperado,vinagre de arroz para sushi,vinagre para sushi,vinagre de sushi,vinagre de arroz tradicional,vinagre de arroz orgânico,vinagre de arroz sem açúcar,vinagre de arroz com açúcar,vinagre de arroz com sal,vinagre de arroz mizkan,mizkan,vinagre de arroz kenko,vinagre kenko,vinagre de arroz sakura,vinagre sakura,vinagre de arroz azuma,vinagre azuma,vinagre de arroz yoki,vinagre yoki,vinagre de arroz shirakiku,vinagre shirakiku,tempero de sushi,tempero para sushi,sushinoko,sushi-no-ko,sushi no ko,tempero sushinoko
+Vinagre de cana|vinagre de cana de açúcar,vinagre de cana tradicional,vinagre de cana orgânico,vinagre de cana natural,vinagre de cana castelo,vinagre castelo cana,vinagre de cana minhas,vinagre de cana sacra,vinagre de cana vida,vinagre de cana natural life
+Vinagre de framboesa|vinagre de frutas vermelhas
+Mirin|mirim,mirin japonês,mirin tradicional,mirin hon,hon mirin,aji mirin,aji-mirin,mirin doce,tempero mirin,tempero mirim,saquê culinário,saquê de cozinha,saquê para cozinhar,saquê mirin,sake mirin
+Saquê|sake,saquê japonês,saquê culinário,sake culinário,saquê para cozinha,saquê de cozinha,saquê para cozinhar,saquê dry,saquê seco,saquê doce,saquê premium,saquê junmai,junmai,saquê ginjo,ginjo,saquê daiginjo,daiginjo,saquê nigori,nigori,saquê quente,saquê frio,saquê gelado,sake quente,sake frio,sake gelado
+# Açúcares, adoçantes e doces
+Açúcar|açúcar refinado,açúcar cristal,açúcar branco,açúcar comum,açúcar de mesa,açúcar tradicional,açúcar granulado,açúcar fino,açúcar extra fino,açúcar refinado granulado,açúcar refinado especial,açúcar cristal especial,açucar,açúcar união,açúcar caravelas,açúcar guarani,açúcar da barra,açúcar uniao,sugar|b
+Açúcar mascavo|mascavo,açucar mascavo,açúcar mascavo claro,açúcar mascavo escuro,açúcar mascavo orgânico,açúcar mascavo integral,açúcar integral,açúcar bruto,açúcar não refinado,açúcar natural,açúcar de cana mascavo,açúcar de cana integral,açúcar de cana orgânico,açúcar de cana natural,açúcar de cana,açúcar de cana bruto,açúcar de cana não refinado,açúcar de cana demerara,açúcar de cana mascavo,muscovado,açúcar muscovado,açúcar mascavo muscovado,brown sugar
+Açúcar demerara|demerara,açúcar demerara orgânico,açúcar demerara dourado,açúcar demerara claro,açúcar demerara escuro,açúcar demerara integral,açúcar demerara natural,açúcar demerara de cana,açúcar dourado,açúcar dourado de cana,açúcar dourado orgânico,açúcar dourado natural,açúcar dourado integral,açúcar cristal dourado,açúcar cristal demerara,açúcar cristal orgânico,açúcar cristal natural,açúcar cristal integral,açúcar cristal mascavo
+Açúcar de confeiteiro|açúcar impalpável,açúcar de confeiteiro fino,açúcar de confeiteiro puro,açúcar de confeiteiro tradicional,açúcar de confeiteiro refinado,açúcar de confeiteiro orgânico,açúcar de confeiteiro natural,açúcar de confeiteiro integral,açúcar de confeiteiro com amido,açúcar de confeiteiro sem amido,açúcar glacê,açúcar glaçê,glacê,glace,glacê de açúcar,icing sugar,confectioners sugar,powdered sugar,açúcar em pó,açúcar de confeitar,açúcar para confeitar,açúcar de confeitaria,açúcar para confeitaria,açúcar fondant,fondant,açúcar de bolo,açúcar para bolo,açúcar para cobertura,açúcar de cobertura
+Açúcar de coco|açúcar de coco orgânico,açúcar de coco natural,açúcar de coco integral,açúcar de coco tradicional,açúcar de coco refinado,açúcar de coco mascavo,açúcar de coco demerara,açúcar de coco dourado,açúcar de coco claro,açúcar de coco escuro,coconut sugar,açúcar de palma,açúcar de palmeira,jaggery,açúcar jaggery,gur,gud
+Açúcar invertido|açúcar invertido líquido,açúcar invertido em pasta,açúcar invertido em xarope,xarope de açúcar invertido,xarope invertido,glicose,glucose,glicose de milho,glucose de milho,xarope de glicose,xarope de glucose,xarope de milho,corn syrup,xarope de glicose de milho,glicose líquida,glucose líquida,glicose em pasta,glucose em pasta,glicose em pó,glucose em pó,isomalte,isomalt,trimoline,trimolina,sorbitol,sorbitol líquido
+Açúcar de baunilha|açúcar baunilhado,açúcar com baunilha,açúcar aromatizado com baunilha,açúcar de baunilha caseiro,açúcar de baunilha natural,açúcar de baunilha em pó,açúcar de baunilha em sachê,açúcar vanilla,vanilla sugar,açúcar vanilla natural,açúcar vanilla caseiro,açúcar vanilla em pó,açúcar vanilla em sachê
+Açúcar light|açúcar light cristal,açúcar light refinado,açúcar light com adoçante,açúcar light mix,açúcar com adoçante,açúcar com stévia,açúcar light stévia,açúcar light com stévia,açúcar light sucralose,açúcar light com sucralose,açúcar com sucralose,açúcar light eritritol,açúcar light com eritritol,açúcar com eritritol,açúcar light xilitol,açúcar light com xilitol,açúcar com xilitol
+Adoçante|adoçante líquido,adoçante em pó,adoçante dietético,adoçante de mesa,adoçante culinário,adoçante para cozinha,adoçante forno e fogão,adoçante zero cal,adoçante zero calorias,adoçante natural,adoçante sem calorias,adoçante sem açúcar,adoçante light,adoçante diet,adoçante lowçúcar,adoçante linea,adoçante finn,adoçante assugrin,assugrin,adoçante zeropan,zeropan,adoçante gold,adoçante dietil,adoçante sucralose,adoçante de sucralose,adoçante aspartame,adoçante de aspartame,aspartame,adoçante ciclamato,adoçante de ciclamato,ciclamato,adoçante sacarina,adoçante de sacarina,sacarina,adoçante acessulfame,adoçante de acessulfame,acessulfame,adoçante stévia,adoçante de stévia,adoçante steviol,adoçante steviosídeo,adoçante rebaudiosídeo,adoçante eritritol,adoçante de eritritol,adoçante xilitol,adoçante de xilitol,adoçante sorbitol,adoçante de sorbitol,adoçante maltitol,adoçante de maltitol,adoçante manitol,adoçante de manitol,adoçante isomalte,adoçante de isomalte,adoçante lactitol,adoçante de lactitol,adoçante tagatose,adoçante de tagatose,adoçante alulose,adoçante de alulose,alulose,psicose,adoçante monk fruit,adoçante de monk fruit,monk fruit,fruta do monge,luo han guo,adoçante de fruta do monge,adoçante de luo han guo
+Stévia|stevia,estévia,stévia em pó,stevia em pó,stévia líquida,stevia líquida,stévia em folhas,stevia em folhas,folha de stévia,folha de stevia,folhas de stévia,folhas de stevia,stévia natural,stevia natural,stévia pura,stevia pura,stévia orgânica,stevia orgânica,stévia culinária,stevia culinária,stévia para cozinha,stevia para cozinha,stévia para bolo,stevia para bolo,stévia para doce,stevia para doce
+Xilitol|xilitol em pó,xilitol cristal,xilitol natural,xilitol puro,xilitol orgânico,xilitol de bétula,xilitol de milho,xilitol culinário,xilitol para cozinha,xilitol para bolo,xilitol para doce,xilitol para confeitaria,xilitol para confeitar,xilitol para cobertura,xilitol para glacê,xilitol impalpável,xilitol em pó impalpável,xilitol de confeiteiro,xilitol de confeitaria,xilitol para café,xilitol para chá,xilitol para bebidas,xilitol para sucos
+Eritritol|eritritol em pó,eritritol cristal,eritritol natural,eritritol puro,eritritol orgânico,eritritol culinário,eritritol para cozinha,eritritol para bolo,eritritol para doce,eritritol para confeitaria,eritritol para confeitar,eritritol para cobertura,eritritol para glacê,eritritol impalpável,eritritol em pó impalpável,eritritol de confeiteiro,eritritol de confeitaria,eritritol para café,eritritol para chá,eritritol para bebidas,eritritol para sucos,erythritol
+Mel|mel de abelha,mel puro,mel silvestre,mel de laranjeira,mel de eucalipto,mel de flores,mel de flor,mel orgânico,mel natural,mel líquido,mel cristalizado,mel em favo,favo de mel,mel de uruçu,mel de jataí,mel de abelha sem ferrão,mel de abelha jataí,mel de abelha uruçu,mel de abelha mandaçaia,mel de mandaçaia,mel de abelha tiúba,mel de tiúba,mel de abelha irai,mel de irai,mel de abelha mirim,mel de mirim,mel de abelha guaraipo,mel de guaraipo,mel de abelha borá,mel de borá,mel de abelha mandaguari,mel de mandaguari,mel de abelha moça-branca,mel de moça-branca,mel de abelha arapuá,mel de arapuá,mel de abelha tubuna,mel de tubuna,mel de abelha lambe-olhos,mel de lambe-olhos,mel de abelha bugia,mel de bugia,mel de abelha manduri,mel de manduri,mel de abelha tataíra,mel de tataíra,mel de abelha iraí
+Melado|melado de cana,melado puro,melado de cana puro,melado de cana de açúcar,melado de cana tradicional,melado de cana natural,melado de cana orgânico,melado de cana integral,melado de cana artesanal,melado de cana caseiro,melado de engenho,melaço,melaço de cana,melaço de cana de açúcar,melaço de cana puro,melaço puro,molasses,melaço em pó,melaço líquido,melaço de beterraba,melaço de sorgo,melaço de milho,melaço de uva,melaço de romã,melaço de alfarroba,melaço de amora,melaço de tâmaras
+Rapadura|rapadura em pó,rapadura ralada,rapadura em barra,rapadura em tablete,rapadura em cubos,rapadura em pedaços,rapadura em lascas,rapadura em fatias,rapadura em blocos,rapadura em tijolos,rapadura em tijolinhos,rapadura de cana,rapadura de cana de açúcar,rapadura pura,rapadura natural,rapadura orgânica,rapadura integral,rapadura artesanal,rapadura caseira,rapadura de engenho,rapadura de leite,rapadura com amendoim,rapadura com coco,rapadura com gengibre,rapadura com limão,rapadura com maracujá,rapadura com castanha,rapadura com cacau,rapadura com chocolate,rapadura com café,rapadura com canela,rapadura com cravo,rapadura com erva-doce,rapadura com especiarias,rapadura temperada,rapadura saborizada,rapadura aromatizada,rapadura mole,rapadura dura,rapadura batida,rapadura de batida,batida de rapadura
+Xarope de bordo|maple syrup,maple,xarope de maple,xarope de ácer,calda de maple,calda de bordo,calda maple,syrup de maple,xarope de bordo puro,maple syrup puro,xarope de bordo canadense,maple syrup canadense,xarope de bordo orgânico,maple syrup orgânico,xarope de bordo grade a,maple syrup grade a,xarope de bordo dark,maple syrup dark,xarope de bordo amber,maple syrup amber,xarope de bordo golden,maple syrup golden,xarope de bordo claro,maple syrup claro,xarope de bordo escuro,maple syrup escuro
+Xarope de agave|agave,néctar de agave,nectar de agave,agave syrup,xarope de agave orgânico,agave orgânico,néctar de agave orgânico,xarope de agave claro,agave claro,xarope de agave escuro,agave escuro,xarope de agave dourado,agave dourado,xarope de agave âmbar,agave âmbar,xarope de agave cru,agave cru,xarope de agave natural,agave natural
+Calda de chocolate|calda de chocolate pronta,calda de chocolate sorvete,calda de chocolate hershey's,hershey's syrup,calda hershey's,calda de chocolate quente,chocolate quente cremoso,calda de chocolate caseira,calda de chocolate tradicional,calda de chocolate amargo,calda de chocolate meio amargo,calda de chocolate ao leite,calda de chocolate branco,calda de chocolate com avelã,calda de chocolate com amendoim,calda de chocolate com caramelo,calda de chocolate com menta,calda de chocolate com laranja,calda de chocolate com café,calda de chocolate com coco,calda de chocolate com morango,calda de chocolate com framboesa
+Calda de caramelo|caramelo,caramelo líquido,caramelo em calda,calda de caramelo pronta,calda caramelo,calda de caramelo caseira,calda de caramelo tradicional,calda de caramelo salgado,caramelo salgado,calda de caramelo com sal,calda de caramelo com flor de sal,calda de caramelo com baunilha,calda de caramelo com café,calda de caramelo com avelã,calda de caramelo com amendoim,calda de caramelo com coco,calda de caramelo com chocolate,calda de caramelo com leite condensado,caramelo de leite condensado,dulce de leche,doce de leite argentino
+Calda de morango|calda de morango pronta,calda de morango caseira,calda de frutas vermelhas,calda de frutas,calda de fruta,calda de framboesa,calda de amora,calda de cereja,calda de goiaba,calda de maracujá,calda de manga,calda de abacaxi,calda de pêssego,calda de ameixa,calda de uva,calda de laranja,calda de limão
+Geleia|geleia de frutas,geleia de morango,geleia de uva,geleia de goiaba,geleia de damasco,geleia de laranja,geleia de pimenta,geleia de frutas vermelhas,geleia de framboesa,geleia de amora,geleia de abacaxi,geleia de manga,geleia de maracujá,geleia de jabuticaba,geleia de figo,geleia de pêssego,geleia de ameixa,geleia de cereja,geleia de maçã,geleia de pera,geleia de limão,geleia de tangerina,geleia de mirtilo,geleia de cranberry,geleia de mocotó,geleia de mocotó sabor,geleia de tomate,geleia de abóbora,geleia de cenoura,geleia de beterraba,geleia de gengibre,geleia de hibisco,geleia de rosa,geleia de pimenta jalapeño,geleia de pimenta biquinho,geleia de pimenta dedo-de-moça,geleia de pimenta malagueta,geleia de pimenta de cheiro,geleia de pimenta calabresa,geleia de pimenta habanero,geleia de pimenta chipotle
+Goiabada|goiabada cascão,goiabada em barra,goiabada em lata,goiabada cremosa,goiabada pastosa,goiabada mole,goiabada dura,goiabada de corte,goiabada tradicional,goiabada caseira,goiabada artesanal,goiabada mineira,goiabada de fazenda,goiabada de roça,goiabada de tacho,goiabada de forno,goiabada cascão mineira,goiabada cascão artesanal,goiabada cascão caseira,goiabada cascão tradicional,goiabada cascão de fazenda,goiabada cascão de roça,goiabada cascão de tacho,goiabada cascão de forno,doce de goiaba,doce de goiaba em calda,goiaba em calda,goiaba em calda enlatada,goiabada em cubos,goiabada em fatias,goiabada em pedaços,goiabada em tiras,goiabada picada
+Bananada|doce de banana,bananada cremosa,bananada em barra,bananada mole,bananada dura,bananada tradicional,bananada caseira,bananada artesanal,bananada mineira,bananada de fazenda,bananada de roça,bananada de tacho,bananada de forno,bananada de banana prata,bananada de banana nanica,bananada de banana da terra,bananada de banana maçã,bananada com canela,bananada com cravo,bananada com coco,bananada com amendoim,bananada com castanha,bananada com chocolate,bananada com leite condensado,bananada com açúcar mascavo,bananada com rapadura,bananada com mel,bananada com melado
+Marmelada|doce de marmelo,marmelada em barra,marmelada em lata,marmelada cremosa,marmelada pastosa,marmelada mole,marmelada dura,marmelada de corte,marmelada tradicional,marmelada caseira,marmelada artesanal,marmelada portuguesa,marmelada de fazenda,marmelada de roça,marmelada de tacho,marmelada de forno,marmelada com queijo,marmelada com queijo minas,marmelada com queijo canastra,marmelada com queijo meia cura,marmelada com queijo coalho,marmelada com queijo parmesão,marmelada com queijo brie,marmelada com queijo gorgonzola,marmelada com queijo gouda,marmelada com queijo provolone,marmelada com queijo prato,marmelada com queijo mussarela,marmelada com queijo ricota,marmelada com queijo cottage,marmelada com queijo cream cheese,marmelada com queijo cheddar,marmelada com queijo feta,marmelada com queijo manchego,marmelada com queijo pecorino,marmelada com queijo grana padano,marmelada com queijo emmental,marmelada com queijo gruyère,marmelada com queijo raclette,marmelada com queijo halloumi,marmelada com queijo paneer
+Doce de abóbora|doce de abóbora com coco,doce de abóbora em calda,doce de abóbora cremoso,doce de abóbora em pedaços,doce de abóbora em tiras,doce de abóbora com cravo,doce de abóbora com canela,doce de abóbora caseiro,doce de abóbora tradicional,doce de abóbora mineiro,doce de abóbora de fazenda,doce de abóbora de roça,doce de abóbora de tacho,doce de abóbora de forno,abóbora em calda,abóbora doce,abóbora caramelizada,abóbora cristalizada
+Cocada|cocada branca,cocada preta,cocada cremosa,cocada mole,cocada dura,cocada de forno,cocada de tacho,cocada de corte,cocada tradicional,cocada caseira,cocada artesanal,cocada baiana,cocada nordestina,cocada de leite,cocada de leite condensado,cocada de rapadura,cocada de açúcar mascavo,cocada de mel,cocada de melado,cocada de maracujá,cocada de abacaxi,cocada de morango,cocada de goiaba,cocada de banana,cocada de manga,cocada de caju,cocada de ameixa,cocada de amendoim,cocada de castanha,cocada de chocolate,cocada de café,cocada de canela,cocada de cravo,cocada de gengibre,cocada de limão,cocada de laranja,cocada de leite de coco,cocada de coco verde,cocada de coco seco,cocada de coco ralado,cocada de coco fresco,cocada de coco queimado,cocada queimada
+Granulado|granulado de chocolate,granulado colorido,confeito,confeitos,confeito colorido,confeitos coloridos,granulado belga,chocolate granulado,chocolate granulado belga,granulado macio,granulado crocante,granulado de chocolate ao leite,granulado de chocolate meio amargo,granulado de chocolate branco,granulado de chocolate belga,granulado de chocolate colorido,granulado de chocolate tradicional,granulado de chocolate caseiro,granulado de chocolate artesanal,granulado de chocolate gourmet,granulado de chocolate fino,granulado de chocolate grosso,granulado de chocolate crocante,granulado de chocolate macio,granulado de chocolate em pó,granulado de chocolate em barra,granulado de chocolate em lascas,granulado de chocolate em flocos,granulado de chocolate em pedaços,granulado de chocolate em raspas,granulado de chocolate em tiras,granulado de chocolate em cubos,granulado de chocolate em gotas,granulado de chocolate em bolinhas,granulado de chocolate em esferas,granulado de chocolate em pérolas,granulado de chocolate em confete,granulado de chocolate em confeitos,granulado de chocolate em estrelas,granulado de chocolate em corações
+Chocolate em pó|achocolatado,achocolatado em pó,chocolate em pó 50%,chocolate em pó solúvel,chocolate em pó 33%,chocolate em pó 100%,chocolate em pó tradicional,chocolate em pó nescau,nescau,toddy,chocolate em pó toddy,chocolate em pó ovomaltine,ovomaltine,chocolate em pó diet,chocolate em pó light,chocolate em pó zero,chocolate em pó sem açúcar,chocolate em pó orgânico,chocolate em pó natural,chocolate em pó vegano,chocolate em pó meio amargo,chocolate em pó ao leite,chocolate em pó branco,chocolate em pó amargo,chocolate em pó doce,chocolate em pó para bolo,chocolate em pó para brigadeiro,chocolate em pó para leite,chocolate em pó para chocolate quente,chocolate em pó para sorvete,chocolate em pó para sobremesa,chocolate em pó para confeitaria,chocolate em pó para cobertura,chocolate em pó para recheio,chocolate em pó para trufa,chocolate em pó para mousse,chocolate em pó para pudim,chocolate em pó para torta,chocolate em pó para cookies,chocolate em pó para brownie,chocolate em pó para panqueca,chocolate em pó para waffle,chocolate em pó para crepe
+Achocolatado|achocolatado em pó,achocolatado nescau,achocolatado toddy,achocolatado ovomaltine,achocolatado diet,achocolatado light,achocolatado zero,achocolatado sem açúcar,achocolatado orgânico,achocolatado natural,achocolatado vegano,achocolatado líquido,achocolatado pronto,achocolatado de caixinha,achocolatado de garrafinha,achocolatado de saquinho,achocolatado de copinho,achocolatado de lata,achocolatado de pote,achocolatado de sachê,achocolatado de barra,achocolatado de tablete
+Chocolate meio amargo|chocolate amargo,chocolate 50%,chocolate 55%,chocolate 60%,chocolate 70%,chocolate 80%,chocolate 85%,chocolate 90%,chocolate dark,chocolate escuro,chocolate preto,chocolate meio-amargo,chocolate semi-amargo,chocolate semiamargo,chocolate em barra meio amargo,chocolate em barra amargo,chocolate em barra 50%,chocolate em barra 70%,chocolate em barra dark,chocolate em barra escuro,barra de chocolate meio amargo,barra de chocolate amargo,barra de chocolate 50%,barra de chocolate 70%,barra de chocolate dark,barra de chocolate escuro,tablete de chocolate meio amargo,tablete de chocolate amargo,tablete de chocolate 50%,tablete de chocolate 70%,tablete de chocolate dark,tablete de chocolate escuro,chocolate culinário meio amargo,chocolate culinário amargo,chocolate culinário 50%,chocolate culinário 70%,chocolate culinário dark,chocolate culinário escuro,chocolate para cobertura meio amargo,chocolate para cobertura amargo,chocolate para cobertura 50%,chocolate para cobertura 70%,chocolate para cobertura dark,chocolate para cobertura escuro,chocolate fracionado meio amargo,chocolate fracionado amargo,chocolate fracionado 50%,chocolate fracionado 70%,chocolate fracionado dark,chocolate fracionado escuro,chocolate em gotas meio amargo,chocolate em gotas amargo,gotas de chocolate meio amargo,gotas de chocolate amargo,gotas de chocolate 50%,gotas de chocolate 70%,gotas de chocolate dark,gotas de chocolate escuro,callets meio amargo,callets amargo,callets 50%,callets 70%,callets dark,callets escuro
+Chocolate ao leite|chocolate de leite,chocolate em barra ao leite,barra de chocolate ao leite,tablete de chocolate ao leite,chocolate culinário ao leite,chocolate para cobertura ao leite,chocolate fracionado ao leite,chocolate em gotas ao leite,gotas de chocolate ao leite,callets ao leite,chocolate nestlé,chocolate garoto,chocolate lacta,chocolate hershey's,chocolate cacau show,chocolate sicao,chocolate harald,chocolate melken,chocolate callebaut,chocolate belga,chocolate suíço,chocolate gourmet ao leite,chocolate premium ao leite,chocolate artesanal ao leite,chocolate caseiro ao leite,chocolate tradicional ao leite,chocolate cremoso ao leite,chocolate liso ao leite,chocolate macio ao leite,chocolate crocante ao leite,chocolate aerado ao leite,chocolate recheado ao leite,chocolate com recheio ao leite,chocolate com amendoim ao leite,chocolate com avelã ao leite,chocolate com castanha ao leite,chocolate com amêndoa ao leite,chocolate com nozes ao leite,chocolate com passas ao leite,chocolate com coco ao leite,chocolate com caramelo ao leite,chocolate com biscoito ao leite,chocolate com cereais ao leite,chocolate com crocante ao leite,chocolate com wafer ao leite,chocolate com morango ao leite,chocolate com laranja ao leite,chocolate com menta ao leite,chocolate com café ao leite,chocolate com sal ao leite,chocolate com pimenta ao leite
+Chocolate branco|chocolate em barra branco,barra de chocolate branco,tablete de chocolate branco,chocolate culinário branco,chocolate para cobertura branco,chocolate fracionado branco,chocolate em gotas branco,gotas de chocolate branco,callets branco,chocolate branco belga,chocolate branco suíço,chocolate branco gourmet,chocolate branco premium,chocolate branco artesanal,chocolate branco caseiro,chocolate branco tradicional,chocolate branco cremoso,chocolate branco liso,chocolate branco macio,chocolate branco crocante,chocolate branco aerado,chocolate branco recheado,chocolate branco com recheio,chocolate branco com amendoim,chocolate branco com avelã,chocolate branco com castanha,chocolate branco com amêndoa,chocolate branco com nozes,chocolate branco com passas,chocolate branco com coco,chocolate branco com caramelo,chocolate branco com biscoito,chocolate branco com cereais,chocolate branco com crocante,chocolate branco com wafer,chocolate branco com morango,chocolate branco com laranja,chocolate branco com menta,chocolate branco com café,chocolate branco com sal,chocolate branco com pimenta,chocolate branco ruby,chocolate ruby,chocolate rosa
+Gotas de chocolate|chocolate em gotas,gotas de chocolate meio amargo,gotas de chocolate ao leite,gotas de chocolate branco,gotas de chocolate culinárias,gotas de chocolate para cookies,gotas de chocolate para bolo,gotas de chocolate para panetone,gotas de chocolate para pão de mel,gotas de chocolate para brownie,gotas de chocolate para muffin,gotas de chocolate para cupcake,gotas de chocolate para panqueca,gotas de chocolate para waffle,gotas de chocolate para sorvete,gotas de chocolate para granola,gotas de chocolate para iogurte,gotas de chocolate para cobertura,gotas de chocolate para decoração,gotas de chocolate para confeitaria,gotas de chocolate para derreter,gotas de chocolate para fondue,gotas de chocolate para ganache,gotas de chocolate para trufa,gotas de chocolate para brigadeiro,gotas de chocolate para mousse,gotas de chocolate para pudim,gotas de chocolate para torta,gotas de chocolate para sobremesa,pepitas de chocolate,chips de chocolate,chocolate chips,chocolate chip,drops de chocolate,drops de chocolate meio amargo,drops de chocolate ao leite,drops de chocolate branco
+Ganache|ganache de chocolate,ganache meio amargo,ganache ao leite,ganache branco,ganache pronta,ganache caseira,ganache tradicional,ganache cremosa,ganache firme,ganache mole,ganache para cobertura,ganache para recheio,ganache para trufa,ganache para bolo,ganache para torta,ganache para brigadeiro,ganache para brownie,ganache para cupcake,ganache para cookie,ganache para macaron
+Biscoito maisena|bolacha maisena,biscoito de maisena,bolacha de maisena,biscoito maizena,bolacha maizena,biscoito de maizena,bolacha de maizena,biscoito maisena integral,biscoito maisena light,biscoito maisena diet,biscoito maisena zero,biscoito maisena sem açúcar,biscoito maisena sem lactose,biscoito maisena sem glúten,biscoito maisena vegano,biscoito maisena orgânico,biscoito maisena natural,biscoito maisena tradicional,biscoito maisena caseiro,biscoito maisena artesanal,biscoito maisena crocante,biscoito maisena macio,biscoito maisena doce,biscoito maisena salgado,biscoito maisena de leite,biscoito maisena de coco,biscoito maisena de chocolate,biscoito maisena de baunilha,biscoito maisena de morango,biscoito maisena de limão,biscoito maisena de laranja,biscoito maisena de canela,biscoito maisena de mel,biscoito maisena de aveia,biscoito maisena de gengibre,biscoito maisena de amendoim,biscoito maisena de castanha,biscoito maisena de amêndoa,biscoito maisena de nozes,biscoito maisena de passas,biscoito maisena de queijo,biscoito maisena de ervas,biscoito maisena de gergelim,biscoito maisena de linhaça,biscoito maisena de chia,biscoito maisena de quinoa
+Biscoito cream cracker|cream cracker,bolacha cream cracker,biscoito água e sal,bolacha água e sal,biscoito agua e sal,bolacha agua e sal,biscoito salgado,bolacha salgada,biscoito cracker,bolacha cracker,cracker,crackers,biscoito de sal,bolacha de sal,biscoito salgadinho,bolacha salgadinha,biscoito salgado integral,bolacha salgada integral,biscoito cream cracker integral,bolacha cream cracker integral
+Biscoito recheado|bolacha recheada,biscoito recheado de chocolate,bolacha recheada de chocolate,biscoito recheado de morango,bolacha recheada de morango,biscoito recheado de baunilha,bolacha recheada de baunilha,biscoito oreo,oreo,bolacha oreo,biscoito bono,bono,bolacha bono,biscoito trakinas,trakinas,bolacha trakinas,biscoito passatempo,passatempo,bolacha passatempo,biscoito negresco,negresco,bolacha negresco,biscoito tortuguita,tortuguita,bolacha tortuguita,biscoito club social,club social,bolacha club social,biscoito calipso,calipso,bolacha calipso,biscoito wafer,wafer,bolacha wafer,biscoito de wafer,bolacha de wafer
+Biscoito champanhe|biscoito champagne,biscoito champanhe,savoiardi,biscoito de champanhe,biscoito de champagne,biscoito língua de gato,língua de gato,biscoito savoiardi,biscoito de savoiardi,biscoito para tiramisù,biscoito para tiramisu,biscoito para pavê,biscoito para torta,biscoito para sobremesa,biscoito para charlotte,biscoito para charlote
+Biscoito de polvilho|biscoito polvilho,biscoito de polvilho doce,biscoito de polvilho azedo,biscoito de polvilho assado,biscoito de polvilho frito,biscoito de polvilho mineiro,biscoito de polvilho caseiro,biscoito de polvilho artesanal,biscoito de polvilho tradicional,biscoito de polvilho crocante,biscoito de polvilho macio,biscoito de polvilho de queijo,biscoito de polvilho de forno,biscoito de polvilho de frigideira,biscoito de polvilho de fogão,biscoito de polvilho de fogão a lenha,biscoito de polvilho de panela,biscoito de polvilho de tacho,biscoito de polvilho de assadeira,biscoito de polvilho de forma,biscoito de polvilho de bandeja,biscoito de polvilho de lata,biscoito de polvilho de saco,biscoito de polvilho de pacote,biscoito de polvilho de caixa,biscoito de polvilho de pote,biscoito de polvilho de sachê,biscoito de polvilho de embalagem,biscoito de polvilho de padaria,biscoito de polvilho de mercado,biscoito de polvilho de feira,biscoito de polvilho de loja,biscoito de polvilho de fábrica,biscoito de polvilho de fazenda,biscoito de polvilho de roça,biscoito de polvilho de casa,biscoito de polvilho de vó,biscoito de polvilho de vovó,biscoito de polvilho de mãe,biscoito de polvilho de família
+Biscoito amanteigado|biscoito de manteiga,bolacha amanteigada,bolacha de manteiga,biscoito amanteigado de baunilha,biscoito amanteigado de coco,biscoito amanteigado de chocolate,biscoito amanteigado de limão,biscoito amanteigado de laranja,biscoito amanteigado de canela,biscoito amanteigado de amêndoa,biscoito amanteigado de nozes,biscoito amanteigado de castanha,biscoito amanteigado de amendoim,biscoito amanteigado de goiabada,biscoito amanteigado de doce de leite,biscoito amanteigado de geleia,biscoito amanteigado de brigadeiro,biscoito amanteigado de leite condensado,biscoito amanteigado de queijo,biscoito amanteigado de ervas,biscoito amanteigado de gergelim,biscoito amanteigado de linhaça,biscoito amanteigado de chia,biscoito amanteigado de aveia,biscoito amanteigado de mel,biscoito amanteigado de gengibre,biscoito amanteigado de especiarias,biscoito shortbread,shortbread,biscoito tipo shortbread,biscoito sablé,sablé,biscoito tipo sablé,biscoito de massa podre,biscoito de massa quebrada,biscoito de massa sablée
+Biscoito Maria|bolacha Maria,biscoito maria,bolacha maria,biscoito de leite,bolacha de leite,biscoito maria integral,bolacha maria integral,biscoito maria light,bolacha maria light,biscoito maria diet,bolacha maria diet,biscoito maria zero,bolacha maria zero,biscoito maria sem açúcar,bolacha maria sem açúcar,biscoito maria sem lactose,bolacha maria sem lactose,biscoito maria sem glúten,bolacha maria sem glúten,biscoito maria vegano,bolacha maria vegana,biscoito maria orgânico,bolacha maria orgânica,biscoito maria natural,bolacha maria natural,biscoito maria tradicional,bolacha maria tradicional,biscoito maria caseiro,bolacha maria caseira,biscoito maria artesanal,bolacha maria artesanal
+Biscoito de aveia|bolacha de aveia,biscoito de aveia e mel,biscoito de aveia e banana,biscoito de aveia e passas,biscoito de aveia e chocolate,biscoito de aveia e coco,biscoito de aveia e canela,biscoito de aveia e castanha,biscoito de aveia e amêndoa,biscoito de aveia e nozes,biscoito de aveia e amendoim,biscoito de aveia e gergelim,biscoito de aveia e linhaça,biscoito de aveia e chia,biscoito de aveia e quinoa,biscoito de aveia e frutas secas,biscoito de aveia e cranberry,biscoito de aveia e damasco,biscoito de aveia e tâmara,biscoito de aveia e figo,biscoito de aveia e maçã,biscoito de aveia e pera,biscoito de aveia e laranja,biscoito de aveia e limão,biscoito de aveia e gengibre,biscoito de aveia e especiarias,biscoito de aveia integral,biscoito de aveia light,biscoito de aveia diet,biscoito de aveia zero,biscoito de aveia sem açúcar,biscoito de aveia sem lactose,biscoito de aveia sem glúten,biscoito de aveia vegano,biscoito de aveia orgânico,biscoito de aveia natural,biscoito de aveia tradicional,biscoito de aveia caseiro,biscoito de aveia artesanal
+Sorvete|sorvete de creme,sorvete de chocolate,sorvete de morango,sorvete de baunilha,sorvete de flocos,sorvete de coco,sorvete de limão,sorvete de maracujá,sorvete de manga,sorvete de abacaxi,sorvete de menta,sorvete de café,sorvete de pistache,sorvete de nata,sorvete de doce de leite,sorvete napolitano,sorvete de massa,sorvete de pote,sorvete de casquinha,sorvete de palito,picolé,picolé de frutas,picolé de leite,picolé de chocolate,picolé de morango,picolé de limão,picolé de coco,picolé de uva,picolé de manga,picolé de maracujá,picolé de abacaxi,picolé de açaí,sorvete vegano,sorvete light,sorvete diet,sorvete zero,sorvete sem açúcar,sorvete sem lactose,sorvete artesanal,sorvete caseiro,sorvete cremoso,gelato,sorbet,sorbet de frutas,sorbet de limão,sorbet de manga,sorbet de morango,sorbet de maracujá,sorbet de abacaxi,sorbet de coco,sorbet de framboesa,sorbet de pêssego,sorbet de melão,sorbet de melancia,sorbet de kiwi,sorbet de uva,sorbet de cereja,sorbet de amora,sorbet de mirtilo,sorbet de goiaba,sorbet de acerola,sorbet de caju,sorbet de cupuaçu,sorbet de açaí,sorbet de graviola,sorbet de jabuticaba,sorbet de pitanga,sorbet de tamarindo,sorbet de umbu,sorbet de cajá,sorbet de seriguela,sorbet de pitaya,sorbet de lichia,sorbet de carambola,sorbet de romã,sorbet de figo,sorbet de pera,sorbet de maçã,sorbet de banana,sorbet de mamão
+# Pães e padaria
+Pão francês|pão de sal,pãozinho,pão carioca,cacetinho,pão aguinha,pão francês amanhecido,pão dormido,pão velho,pão de sal amanhecido,pão de sal dormido,pão de sal velho,francesinho,pão francesinho,pão francês de ontem,pão do dia anterior,pão de ontem,sobra de pão,restos de pão,pão sobrando,pão que sobrou,miolo de pão,miolo do pão,miolo de pão francês,miolo de pão de forma,casca de pão,casca do pão,crosta de pão,crosta do pão,pão torrado,pão tostado,pão na chapa,pão com manteiga,pão com ovo,pão com queijo,pão com presunto,pão com mortadela,pão com linguiça,pão com carne,pão com frango,pão com atum,pão com patê,pão com requeijão,pão com geleia,pão com doce de leite,pão com goiabada,pão com banana,pão com chocolate,pão com café,pão com leite
+Pão de forma|pão de fôrma,pão de forma branco,pão de forma integral,pão de forma tradicional,pão de forma sem casca,pão de forma com casca,pão de forma fatiado,pão de forma sanduíche,pão de forma 7 grãos,pão de forma multigrãos,pão de forma light,pão de forma diet,pão de forma zero,pão de forma sem glúten,pão de forma sem lactose,pão de forma vegano,pão de forma orgânico,pão de forma natural,pão de forma caseiro,pão de forma artesanal,pão de forma pullman,pão pullman,pão de forma wickbold,wickbold,pão de forma pullman integral,pão de forma seven boys,seven boys,pão de forma plusvita,plusvita,pão de forma bauducco,bauducco pão,pão de forma nutrella,nutrella,pão de forma visconti,visconti,pão de forma panco,panco,pão de forma pão de açúcar,pão de forma qualitá,pão de forma taeq,pão de forma carrefour,pão de forma extra,pão de forma sadia,pão de forma ana maria,ana maria pão,pão de forma santa clara,santa clara,pão de forma oggi,oggi,pão de forma pullman branco,pão de forma branco fatiado,pão de forma branco sem casca
+Pão integral|pão integral de forma,pão integral fatiado,pão integral sem casca,pão integral com casca,pão integral 100%,pão 100% integral,pão integral caseiro,pão integral artesanal,pão integral orgânico,pão integral light,pão integral diet,pão integral zero,pão integral sem açúcar,pão integral sem lactose,pão integral sem glúten,pão integral vegano,pão integral com sementes,pão integral com grãos,pão integral com aveia,pão integral com linhaça,pão integral com chia,pão integral com gergelim,pão integral com girassol,pão integral com abóbora,pão integral com quinoa,pão integral com centeio,pão integral com mel,pão integral com melado,pão integral com passas,pão integral com nozes,pão integral com castanhas,pão integral com amêndoas,pão integral com damasco,pão integral com tâmaras,pão integral com figos,pão integral com cranberry
+Pão árabe|pão sírio,pão sirio,pão pita,pita,pão libanês,pão de pita,pão árabe integral,pão sírio integral,pão pita integral,pão libanês integral,pão árabe fino,pão sírio fino,pão pita fino,pão libanês fino,pão árabe grosso,pão sírio grosso,pão pita grosso,pão libanês grosso,pão árabe pequeno,pão sírio pequeno,pão pita pequeno,pão libanês pequeno,pão árabe grande,pão sírio grande,pão pita grande,pão libanês grande,pão árabe médio,pão sírio médio,pão pita médio,pão libanês médio,pão árabe redondo,pão sírio redondo,pão pita redondo,pão libanês redondo,pão árabe oval,pão sírio oval,pão pita oval,pão libanês oval,pão árabe quadrado,pão sírio quadrado,pão pita quadrado,pão libanês quadrado,pão árabe retangular,pão sírio retangular,pão pita retangular,pão libanês retangular,pão árabe triangular,pão sírio triangular,pão pita triangular,pão libanês triangular,pão pita de bolso,pão de bolso
+Pão de hambúrguer|pão para hambúrguer,pão de hamburguer,pão de hambúrger,pão de hamburger,pão hambúrguer,pão para hamburguer,pão de burger,pão para burger,pão de hambúrguer com gergelim,pão de hambúrguer sem gergelim,pão de hambúrguer integral,pão de hambúrguer brioche,pão brioche de hambúrguer,pão de hambúrguer australiano,pão australiano,pão de hambúrguer de batata,pão de batata,pão de hambúrguer artesanal,pão de hambúrguer caseiro,pão de hambúrguer gourmet,pão de hambúrguer tradicional,pão de hambúrguer macio,pão de hambúrguer fofinho,pão de hambúrguer pequeno,pão de hambúrguer grande,pão de hambúrguer mini,pão de hambúrguer slider,pão slider,mini pão,mini pãozinho,pãozinho de hambúrguer
+Pão de hot dog|pão para hot dog,pão de cachorro-quente,pão de cachorro quente,pão para cachorro-quente,pão para cachorro quente,pão de hotdog,pão para hotdog,pão de cachorro-quente integral,pão de hot dog integral,pão de hot dog brioche,pão de hot dog de batata,pão de hot dog artesanal,pão de hot dog caseiro,pão de hot dog gourmet,pão de hot dog tradicional,pão de hot dog macio,pão de hot dog fofinho,pão de hot dog pequeno,pão de hot dog grande,pão de hot dog mini,pão de hot dog longo,pão de hot dog curto,pão de hot dog fatiado,pão de hot dog sem fatiar
+Pão italiano|pão italiano fatiado,pão italiano integral,pão italiano tradicional,pão italiano artesanal,pão italiano caseiro,pão italiano rústico,pão italiano de fermentação natural,pão italiano de longa fermentação,pão italiano de massa mãe,pão de fermentação natural,pão de longa fermentação,pão de massa mãe,pão de massa madre,pão sourdough,sourdough,pão levain,levain,pão rústico,pão artesanal,pão caseiro,pão de padaria,pão fresco,pão quentinho,pão crocante,pão macio,pão fofinho
+Pão ciabatta|ciabatta,pão ciabatta integral,pão ciabatta tradicional,pão ciabatta artesanal,pão ciabatta caseiro,pão ciabatta rústico,pão ciabatta de fermentação natural,pão ciabatta de longa fermentação,pão ciabatta de massa mãe,pão ciabatta com azeite,pão ciabatta com alecrim,pão ciabatta com ervas,pão ciabatta com alho,pão ciabatta com queijo,pão ciabatta com azeitona,pão ciabatta com tomate seco,pão ciabatta com cebola,pão ciabatta com bacon,pão ciabatta com linguiça,pão ciabatta com presunto,pão ciabatta com mortadela,pão ciabatta com salame,pão ciabatta com atum,pão ciabatta com frango,pão ciabatta com carne,pão ciabatta com legumes,pão ciabatta com cogumelos,pão ciabatta com espinafre,pão ciabatta com abobrinha,pão ciabatta com berinjela,pão ciabatta com pimentão
+Baguete|baguete francesa,baguete tradicional,baguete integral,baguete artesanal,baguete caseira,baguete rústica,baguete de fermentação natural,baguete de longa fermentação,baguete de massa mãe,baguete crocante,baguete macia,baguete fofinha,baguete fresca,baguete quentinha,baguete fatiada,baguete pequena,baguete grande,baguete mini,mini baguete,baguete longa,baguete curta,pão baguete,pão francês longo,pão longo
+Pão brioche|brioche,pão de brioche,brioche tradicional,brioche artesanal,brioche caseiro,brioche macio,brioche fofinho,brioche amanteigado,brioche de manteiga,brioche de leite,brioche de ovos,brioche com gotas de chocolate,brioche com chocolate,brioche com passas,brioche com frutas cristalizadas,brioche com laranja,brioche com limão,brioche com baunilha,brioche com canela,brioche com coco,brioche com creme,brioche com doce de leite,brioche com goiabada,brioche com geleia,brioche com queijo,brioche com presunto,brioche com frango,brioche com carne,brioche com legumes,brioche para hambúrguer,brioche para sanduíche,brioche para rabanada,brioche para french toast,brioche para torrada,brioche para pudim,brioche para bread pudding,pão brioche para hambúrguer
+Torrada|torradas,torrada de pão,torrada integral,torrada tradicional,torrada caseira,torrada de forno,torrada de pão francês,torrada de pão de forma,torrada de baguete,torrada de ciabatta,torrada de pão italiano,torrada de pão árabe,torrada de pão sírio,torrada de pão pita,torrada de pão integral,torrada de pão de centeio,torrada de pão de aveia,torrada de pão de sementes,torrada de pão de grãos,torrada de pão de milho,torrada de pão de queijo,torrada de pão de batata,torrada de pão de mandioca,torrada com manteiga,torrada com requeijão,torrada com geleia,torrada com queijo,torrada com presunto,torrada com ovo,torrada com abacate,torrada com tomate,torrada com patê,torrada com pasta,torrada com homus,torrada com cream cheese,torrada com salmão,torrada com atum,torrada com frango,torrada com carne,torrada com legumes
+Bisnaguinha|bisnaga,pão bisnaguinha,bisnaguinhas,bisnaguinha tradicional,bisnaguinha integral,bisnaguinha de leite,bisnaguinha de chocolate,bisnaguinha de coco,bisnaguinha com recheio,bisnaguinha recheada,bisnaguinha com gotas de chocolate,bisnaguinha com goiabada,bisnaguinha com doce de leite,bisnaguinha com requeijão,bisnaguinha com presunto,bisnaguinha com queijo,bisnaguinha com salsicha,bisnaguinha com linguiça,bisnaguinha com carne,bisnaguinha com frango,bisnaguinha com legumes,bisnaguinha seven boys,bisnaguinha pullman,bisnaguinha plusvita,bisnaguinha wickbold,bisnaguinha bauducco,bisnaguinha nutrella,bisnaguinha visconti,bisnaguinha panco,bisnaguinha pão de açúcar,bisnaguinha qualitá,bisnaguinha taeq,bisnaguinha carrefour,bisnaguinha extra,bisnaguinha sadia,bisnaguinha ana maria,bisnaguinha santa clara,bisnaguinha oggi
+Croissant|croissants,croissant de manteiga,croissant tradicional,croissant de chocolate,croissant de presunto e queijo,croissant de queijo,croissant de presunto,croissant de frango,croissant de peru,croissant de salmão,croissant de amêndoas,croissant de nutella,croissant de creme,croissant de doce de leite,croissant de goiabada,croissant de geleia,croissant de frutas,croissant de maçã,croissant de morango,croissant de framboesa,croissant de banana,croissant de coco,croissant de limão,croissant de laranja,croissant de baunilha,croissant de canela,croissant de pistache,croissant de avelã,croissant de nozes,croissant de castanha,croissant de amendoim,croissant vegano,croissant integral,croissant light,croissant diet,croissant zero,croissant sem açúcar,croissant sem lactose,croissant sem glúten
+Tortilla|tortilha,tortilha de milho,tortilha de trigo,tortilha mexicana,tortilla de milho,tortilla de trigo,tortilla mexicana,tortilla integral,tortilha integral,wrap,wraps,wrap integral,wrap de trigo,wrap de milho,wrap de espinafre,wrap de tomate,wrap sem glúten,wrap low carb,wrap fit,wrap light,wrap diet,wrap zero,massa de wrap,massa de tortilha,massa de tortilla,massa de taco,casca de taco,concha de taco,tacos,taco shell,taco shells,taco crocante,taco mole,tortilla chips,nachos,nacho,chips de milho,chips de tortilla,doritos,totopos,tostadas,tostada,massa de tostada,massa de totopos,massa de nachos,massa de enchilada,massa de burrito,burrito,massa de quesadilla,quesadilla,massa de fajita,fajita,massa de chimichanga,chimichanga,massa de flauta,flauta,massa de taquito,taquito,massa de empanada
+Pão de queijo|pão de queijo congelado,pão de queijo pronto,pão de queijo caseiro,pão de queijo mineiro,pão de queijo tradicional,pão de queijo de forno,pão de queijo recheado,pão de queijo com requeijão,pão de queijo com catupiry,pão de queijo com goiabada,pão de queijo com doce de leite,pão de queijo com presunto,pão de queijo com calabresa,pão de queijo com frango,pão de queijo com carne,pão de queijo com bacon,pão de queijo com linguiça,pão de queijo com milho,pão de queijo com batata,pão de queijo com mandioca,pão de queijo com cenoura,pão de queijo com abóbora,pão de queijo com espinafre,pão de queijo com ervas,pão de queijo com alho,pão de queijo com cebola,pão de queijo com pimenta,pão de queijo com azeitona,pão de queijo com tomate seco,pão de queijo com parmesão,pão de queijo com queijo canastra,pão de queijo com queijo minas,pão de queijo com queijo meia cura,pão de queijo com queijo coalho,pão de queijo com queijo provolone,pão de queijo com queijo gorgonzola,pão de queijo com queijo brie,pão de queijo com queijo cheddar,pão de queijo com queijo mussarela
+Pão de batata|pão de batata caseiro,pão de batata recheado,pão de batata com requeijão,pão de batata com catupiry,pão de batata com presunto,pão de batata com queijo,pão de batata com frango,pão de batata com carne,pão de batata com calabresa,pão de batata com bacon,pão de batata com linguiça,pão de batata doce,pão de batata-doce,pão de batata baroa,pão de mandioquinha,pão de batata inglesa,pão de batata salsa
+# Bebidas e líquidos para cozinhar
+Vinho tinto|vinho tinto seco,vinho tinto suave,vinho tinto de mesa,vinho tinto para cozinhar,vinho tinto culinário,vinho tinto para molho,vinho tinto para carne,vinho tinto cabernet,vinho tinto merlot,vinho tinto malbec,vinho tinto pinot noir,vinho tinto syrah,vinho tinto tannat,vinho tinto carmenere,vinho tinto sangiovese,vinho tinto tempranillo,vinho tinto zinfandel,vinho tinto chianti,vinho tinto bordeaux,vinho tinto borgonha,vinho tinto rioja,vinho tinto douro,vinho tinto alentejo,vinho tinto dão,vinho tinto bairrada,vinho tinto brasileiro,vinho tinto chileno,vinho tinto argentino,vinho tinto uruguaio,vinho tinto italiano,vinho tinto francês,vinho tinto espanhol,vinho tinto português,vinho tinto alemão,vinho tinto americano,vinho tinto australiano,vinho tinto sul-africano,vinho tinto neozelandês
+Vinho branco|vinho branco seco,vinho branco suave,vinho branco de mesa,vinho branco para cozinhar,vinho branco culinário,vinho branco para molho,vinho branco para peixe,vinho branco para frutos do mar,vinho branco para risoto,vinho branco chardonnay,vinho branco sauvignon blanc,vinho branco riesling,vinho branco pinot grigio,vinho branco pinot gris,vinho branco viognier,vinho branco chenin blanc,vinho branco moscato,vinho branco albariño,vinho branco verdejo,vinho branco vinho verde,vinho verde,vinho branco brasileiro,vinho branco chileno,vinho branco argentino,vinho branco uruguaio,vinho branco italiano,vinho branco francês,vinho branco espanhol,vinho branco português,vinho branco alemão,vinho branco americano,vinho branco australiano,vinho branco sul-africano,vinho branco neozelandês
+Vinho do porto|porto,vinho porto,vinho do porto tawny,vinho do porto ruby,vinho do porto branco,vinho do porto rosé,vinho do porto envelhecido,vinho do porto vintage,vinho do porto lbv,vinho do porto reserva,vinho do porto para molho,vinho do porto para carne,vinho do porto para sobremesa,vinho do porto para cozinhar,vinho do porto culinário
+Vinho marsala|marsala,vinho marsala seco,vinho marsala doce,vinho marsala para cozinhar,vinho marsala culinário,vinho marsala para molho,vinho marsala para frango,vinho marsala para vitela,vinho marsala para sobremesa
+Vinho madeira|madeira,vinho madeira seco,vinho madeira doce,vinho madeira para cozinhar,vinho madeira culinário,vinho madeira para molho,vinho madeira para carne,vinho madeira para sobremesa
+Vinho rosé|vinho rose,vinho rosado,rosé,vinho rosé seco,vinho rosé suave
+Espumante|champagne,champanhe,prosecco,cava,espumante brut,espumante demi-sec,espumante moscatel,espumante rosé,espumante para cozinhar,espumante culinário,espumante para risoto,espumante para sobremesa,espumante para drinks
+Cerveja|cerveja pilsen,cerveja lager,cerveja ipa,cerveja stout,cerveja escura,cerveja clara,cerveja preta,cerveja de trigo,cerveja weiss,cerveja artesanal,cerveja sem álcool,cerveja para cozinhar,cerveja para churrasco,cerveja para empanar,cerveja para massa,cerveja para marinada,cerveja para caldo,cerveja para molho,cerveja para carne,cerveja para frango,cerveja para peixe,cerveja para camarão,cerveja para mexilhão
+Cachaça|cachaça branca,cachaça prata,cachaça ouro,cachaça envelhecida,cachaça artesanal,cachaça para flambar,cachaça para cozinhar,cachaça para doce,cachaça para caipirinha,pinga,aguardente,aguardente de cana
+Conhaque|cognac,brandy,conhaque para flambar,conhaque para cozinhar,conhaque para molho,conhaque para doce,conhaque para sobremesa,conhaque para café
+Rum|rum branco,rum escuro,rum dourado,rum envelhecido,rum para cozinhar,rum para doce,rum para sobremesa,rum para bolo,rum para panetone,rum para flambar,rum para molho
+Vodka|vodca,vodka para cozinhar,vodka para molho,vodka para massa,vodka para sobremesa,vodka para drinks,vodka sauce,molho vodka,penne alla vodka
+Whisky|uísque,whiskey,bourbon,scotch,whisky para cozinhar,whisky para molho,whisky para carne,whisky para sobremesa,whisky para flambar
+Licor|licor de laranja,licor de café,licor de chocolate,licor de amêndoa,licor de amaretto,amaretto,licor de avelã,licor frangelico,frangelico,licor de coco,licor de limão,licor de ervas,licor de menta,licor de cassis,licor de framboesa,licor de morango,licor de cereja,licor de pêssego,licor de baunilha,licor de ovos,licor de leite,licor de creme,licor baileys,baileys,licor de whisky,licor cointreau,cointreau,licor grand marnier,grand marnier,licor triple sec,triple sec,licor kahlúa,kahlúa,licor tia maria,tia maria,licor drambuie,drambuie,licor strega,strega,licor sambuca,sambuca,licor limoncello,limoncello,licor amarula,amarula,licor jägermeister,jägermeister
+Café|café em pó,café moído,café coado,café forte,café passado,café solúvel,café instantâneo,café expresso,café espresso,expresso,espresso,café em grãos,café torrado,café torrado e moído,café descafeinado,café com leite,café gelado,café frio,café quente,café preto,café puro,café sem açúcar,café com açúcar,café para tiramisù,café para sobremesa,café para bolo,café para glacê,café para cobertura,café para recheio,café para brigadeiro,café para mousse,café para pudim,café para torta,café para sorvete,café para drinks
+Café solúvel|café instantâneo,nescafé,nescafe,café solúvel em pó,café solúvel granulado,café solúvel liofilizado,café solúvel descafeinado,café solúvel para bolo,café solúvel para sobremesa,café solúvel para cobertura,café solúvel para recheio,café solúvel para brigadeiro,café solúvel para mousse,café solúvel para pudim,café solúvel para torta,café solúvel para sorvete,café solúvel para drinks,café solúvel para cappuccino,cappuccino,cappuccino em pó,cappuccino instantâneo,cappuccino solúvel,cappuccino pronto,cappuccino de pó,cappuccino de sachê
+Chá|chá preto,chá verde,chá branco,chá de camomila,camomila,chá de erva-doce,chá de hortelã,chá de boldo,boldo,chá de hibisco,hibisco,chá de gengibre,chá de canela,chá de cidreira,chá de capim-limão,chá mate,mate,chá de mate,chá de rooibos,rooibos,chá de jasmim,chá earl grey,earl grey,chá chai,chai,chá matcha,matcha,matcha em pó,chá de frutas,chá de frutas vermelhas,chá de maçã,chá de limão,chá de pêssego,chá de maracujá,chá de laranja,chá de rosas,chá de lavanda,lavanda,chá gelado,chá para cozinhar,chá para marinar,chá para doce,chá para sobremesa,chá para sorvete,chá para bolo,chá para pudim,chá para mousse,chá para torta,chá para cobertura,chá para recheio
+Matcha|matcha em pó,chá matcha,chá verde matcha,matcha culinário,matcha cerimonial,matcha premium,matcha orgânico,matcha japonês,matcha para bolo,matcha para sorvete,matcha para latte,matcha latte,matcha para sobremesa,matcha para cobertura,matcha para recheio,matcha para brigadeiro,matcha para mousse,matcha para pudim,matcha para torta,matcha para cookies,matcha para brownie,matcha para panqueca,matcha para waffle,matcha para crepe,matcha para smoothie,matcha para shake,matcha para vitamina
+Suco de uva|suco de uva integral,suco de uva natural,suco de uva tinto,suco de uva branco,suco de uva concentrado,suco de uva para cozinhar,suco de uva para molho,suco de uva para carne,suco de uva para sobremesa,suco de uva para gelatina
+Suco de maçã|suco de maçã integral,suco de maçã natural,suco de maçã concentrado,suco de maçã para cozinhar,suco de maçã para molho,suco de maçã para carne,suco de maçã para sobremesa,suco de maçã para gelatina,sidra,sidra de maçã,cidra
+Suco de abacaxi|suco de abacaxi natural,suco de abacaxi integral,suco de abacaxi concentrado,suco de abacaxi para cozinhar,suco de abacaxi para molho,suco de abacaxi para carne,suco de abacaxi para marinada,suco de abacaxi para sobremesa
+Suco de tomate|suco de tomate integral,suco de tomate natural,suco de tomate concentrado,suco de tomate para cozinhar,suco de tomate para molho,suco de tomate para bloody mary,suco de tomate para caldo,suco de tomate para sopa
+Água de coco|água de coco natural,água de coco verde,água de coco em caixinha,água de coco em garrafa,água de coco para cozinhar,água de coco para arroz,água de coco para sobremesa,água de coco para drinks,água de coco para smoothie,água de coco para shake,água de coco para vitamina
+Água com gás|água gaseificada,água mineral com gás,água tônica,água tonica,tônica,tonica,soda,soda limonada,água com gás para massa,água com gás para empanar,água com gás para tempurá,água com gás para batter,água com gás para drinks
+Refrigerante|refri,coca-cola,coca cola,coca,guaraná,guarana,guaraná antarctica,fanta,sprite,pepsi,sukita,soda limonada,refrigerante de cola,refrigerante de guaraná,refrigerante de laranja,refrigerante de limão,refrigerante de uva,refrigerante para cozinhar,refrigerante para marinar,refrigerante para frango,refrigerante para carne,refrigerante para bolo,refrigerante para massa
+Leite de amêndoas|leite de amêndoa,leite de amendoa,leite vegetal de amêndoas,bebida de amêndoas,bebida vegetal de amêndoas,leite de amêndoas sem açúcar,leite de amêndoas com açúcar,leite de amêndoas caseiro,leite de amêndoas natural,leite de amêndoas orgânico,leite de amêndoas barista,leite de amêndoas para café,leite de amêndoas para cozinhar,leite de amêndoas para bolo,leite de amêndoas para mingau,leite de amêndoas para smoothie,leite de amêndoas para shake,leite de amêndoas para vitamina
+Leite de aveia|leite vegetal de aveia,bebida de aveia,bebida vegetal de aveia,leite de aveia sem açúcar,leite de aveia com açúcar,leite de aveia caseiro,leite de aveia natural,leite de aveia orgânico,leite de aveia barista,leite de aveia para café,leite de aveia para cozinhar,leite de aveia para bolo,leite de aveia para mingau,leite de aveia para smoothie,leite de aveia para shake,leite de aveia para vitamina,oat milk
+Leite de soja|leite vegetal de soja,bebida de soja,bebida vegetal de soja,leite de soja sem açúcar,leite de soja com açúcar,leite de soja caseiro,leite de soja natural,leite de soja orgânico,leite de soja barista,leite de soja para café,leite de soja para cozinhar,leite de soja para bolo,leite de soja para mingau,leite de soja para smoothie,leite de soja para shake,leite de soja para vitamina,soy milk
+Leite de arroz|leite vegetal de arroz,bebida de arroz,bebida vegetal de arroz,leite de arroz sem açúcar,leite de arroz com açúcar,leite de arroz caseiro,leite de arroz natural,leite de arroz orgânico,leite de arroz para café,leite de arroz para cozinhar,leite de arroz para bolo,leite de arroz para mingau,leite de arroz para smoothie,leite de arroz para shake,leite de arroz para vitamina
+Leite de castanha|leite de castanha de caju,leite de castanha-do-pará,leite de castanha do pará,leite de castanhas,leite vegetal de castanhas,bebida de castanhas,bebida vegetal de castanhas,leite de castanha sem açúcar,leite de castanha com açúcar,leite de castanha caseiro,leite de castanha natural,leite de castanha orgânico
+Leite de coco em pó|coco em pó,leite de coco desidratado,leite de coco instantâneo
+Creme de coco|creme de côco,creme de coco culinário,creme de coco em lata,creme de coco em caixinha,creme de coco para cozinhar,creme de coco para sobremesa,creme de coco para bolo,creme de coco para pudim,creme de coco para mousse,creme de coco para torta,creme de coco para cobertura,creme de coco para recheio,creme de coco para sorvete,creme de coco para smoothie,creme de coco para shake,creme de coco para vitamina,creme de coco para curry,creme de coco para sopa,creme de coco para molho,creme de coco para moqueca,creme de coco para bobó,creme de coco para vatapá,creme de coco para acarajé,creme de coco para caruru,creme de coco para mungunzá,creme de coco para canjica,creme de coco para arroz doce,creme de coco para tapioca,creme de coco para cuscuz,creme de coco para bolo de rolo,creme de coco para quindim,creme de coco para cocada,creme de coco para beijinho,creme de coco para brigadeiro,creme de coco para bem-casado,creme de coco para casadinho,creme de coco para olho de sogra,creme de coco para pudim de coco,creme de coco para torta de coco,creme de coco para bolo de coco,creme de coco para pão de coco,creme de coco para biscoito de coco,creme de coco para sorvete de coco,creme de coco para picolé de coco
+# Enlatados, conservas e industrializados
+Azeitona verde|azeitonas verdes,azeitona,azeitonas,azeitona verde sem caroço,azeitona verde com caroço,azeitona verde recheada,azeitona verde fatiada,azeitona verde em rodelas,azeitona verde picada,azeitona verde em conserva,azeitona verde em salmoura,azeitona verde temperada,azeitona verde para pizza,azeitona verde para salada,azeitona verde para tábua,azeitona verde para petisco,azeitona verde para aperitivo,azeitona verde para coquetel,azeitona verde para drinks,azeitona verde para martini,azeitona verde para empada,azeitona verde para torta,azeitona verde para pão,azeitona verde para focaccia,azeitona verde para ciabatta,azeitona verde para bolo salgado,azeitona verde para muffin salgado,azeitona verde para quiche,azeitona verde para omelete,azeitona verde para frittata,azeitona verde para risoto,azeitona verde para massa,azeitona verde para molho,azeitona verde para ragu,azeitona verde para peixe,azeitona verde para frango,azeitona verde para carne,azeitona verde para bacalhau,azeitona verde para moqueca,azeitona verde para feijoada
+Azeitona preta|azeitonas pretas,azeitona preta sem caroço,azeitona preta com caroço,azeitona preta fatiada,azeitona preta em rodelas,azeitona preta picada,azeitona preta em conserva,azeitona preta em salmoura,azeitona preta temperada,azeitona preta para pizza,azeitona preta para salada,azeitona preta para tábua,azeitona preta para petisco,azeitona preta para aperitivo,azeitona kalamata,kalamata,azeitona grega,azeitona grega kalamata,azeitona preta grega,azeitona taggiasca,taggiasca,azeitona niçoise,niçoise,azeitona preta niçoise
+Azeitona recheada|azeitona recheada com pimentão,azeitona recheada com queijo,azeitona recheada com amêndoa,azeitona recheada com alho,azeitona recheada com anchova,azeitona recheada com pimenta,azeitona recheada com cebola,azeitona recheada com cream cheese,azeitona recheada com gorgonzola
+Alcaparra|alcaparras,alcaparra em conserva,alcaparras em conserva,alcaparra em salmoura,alcaparras em salmoura,alcaparra no sal,alcaparras no sal,alcaparra miúda,alcaparras miúdas,alcaparra graúda,alcaparras graúdas,alcaparra italiana,alcaparra espanhola,alcaparra francesa,alcaparra de pantelleria,pantelleria,caper,capers,alcaparrado,alcaparrado de azeitona
+Picles|pepino em conserva,pepinos em conserva,pepino em conserva agridoce,picles de pepino,picles de pepino agridoce,picles de cebola,picles de cenoura,picles de beterraba,picles de rabanete,picles de couve-flor,picles de repolho,picles de pimenta,picles de pimentão,picles de abobrinha,picles de vagem,picles de aspargo,picles de quiabo,picles de jiló,picles de maxixe,picles de milho,picles de palmito,picles de cogumelo,picles de alho,picles de gengibre,picles de tomate,picles de berinjela,picles de abóbora,picles de nabo,picles de aipo,picles variados,picles mistos,conserva de pepino,conserva de pepinos,conserva mista,conserva de legumes,conserva de vegetais,legumes em conserva,vegetais em conserva,giardiniera,pickles,pickle,pepino azedinho,pepininho,pepininho em conserva,cornichon,cornichons,gherkin,gherkins,pepino gherkin
+Palmito em conserva|palmito,palmito pupunha em conserva,palmito açaí em conserva,palmito juçara em conserva,palmito inteiro,palmito picado,palmito em rodelas,palmito em tiras,palmito em cubos,palmito em fatias,palmito em pedaços,palmito em conserva inteiro,palmito em conserva picado,palmito em conserva em rodelas,palmito em conserva em tiras,palmito em conserva em cubos,palmito em conserva em fatias,palmito em conserva em pedaços,palmito de pupunha,palmito de açaí,palmito de juçara,palmito de coco,palmito de macaúba,palmito de babaçu,palmito de buriti,palmito de bacaba,palmito de tucumã,palmito de pejibaye,palmito de pêssego,palmito de pêssego-palmeira
+Milho em conserva|milho em lata,milho enlatado,milho verde em lata,milho verde em conserva,milho verde enlatado,milho de lata,milho de conserva,milho verde de lata,milho verde de conserva,milho em grãos em lata,milho em grãos em conserva,milho em grãos enlatado,milho doce em lata,milho doce em conserva,milho doce enlatado,milho baby,milho baby em conserva,minimilho,minimilho em conserva,mini milho,mini milho em conserva,milho mini,milho mini em conserva,espiga de milho em conserva,espiga de milho baby,espiga de milho mini,espiga de minimilho
+Cogumelo em conserva|champignon em conserva,champignon em lata,champignon fatiado,champignon inteiro,champignon picado,cogumelo em lata,cogumelos em conserva,cogumelos em lata,cogumelo fatiado em conserva,cogumelo inteiro em conserva,cogumelo picado em conserva,cogumelo paris em conserva,cogumelo de paris em conserva,shimeji em conserva,shitake em conserva,shiitake em conserva,cogumelo shimeji em conserva,cogumelo shitake em conserva,cogumelo shiitake em conserva,mix de cogumelos em conserva,cogumelos variados em conserva,cogumelos mistos em conserva
+Seleta de legumes|seleta de legumes em lata,seleta de legumes em conserva,seleta de legumes enlatada,seleta de legumes congelada,seleta congelada,seleta de legumes cozida,seleta de legumes fresca,legumes mistos,legumes variados,mix de legumes,mix de legumes congelados,mix de legumes em conserva,mix de legumes em lata,macedônia de legumes,macedonia de legumes,macedônia,macedonia,legumes em cubinhos,legumes picados,legumes congelados,legumes para sopa,legumes para refogado,legumes para wok,legumes para yakisoba,legumes para risoto,legumes para torta,legumes para quiche,legumes para omelete,legumes para frittata,legumes para empadão,legumes para panqueca,legumes para crepe,legumes para wrap,legumes para sanduíche,legumes para salada,legumes para arroz,legumes para macarrão
+Atum sólido|atum em pedaços,atum ralado,atum em óleo,atum em água,atum ao natural em lata,atum em lata ao natural,atum em lata em óleo,atum em lata sólido,atum em lata ralado,atum em lata em pedaços,atum light em lata,atum light,atum com legumes em lata,atum temperado em lata,atum com molho em lata,atum com tomate em lata,atum com limão em lata,atum com pimenta em lata,atum com ervas em lata,atum com azeite em lata,atum com azeite de oliva em lata,atum com azeite extra virgem em lata,atum gomes da costa,gomes da costa,atum coqueiro,coqueiro,atum pescador,pescador,atum bom,atum quero,atum 88,atum atlantis,atum robinson,atum rio mar,atum rio grande,atum pioneira,atum extra
+Creme de milho|creme de milho em lata,creme de milho enlatado,creme de milho pronto,creme de milho caseiro,creme de milho tradicional,creme de milho cremoso,creme de milho para cozinhar,creme de milho para bolo,creme de milho para torta,creme de milho para pudim,creme de milho para mousse,creme de milho para sopa,creme de milho para molho,creme de milho para gratinar,creme de milho para recheio,creme de milho para cobertura,creme de milho para pamonha,creme de milho para curau,curau,curau de milho,curau de milho verde,curau cremoso,curau caseiro,curau tradicional,creme de milho verde,creme de milho verde pronto,creme de milho verde caseiro,creme de milho verde tradicional,creme de milho verde cremoso,creme de milho verde para cozinhar,creme de milho verde para bolo,creme de milho verde para torta,creme de milho verde para pudim,creme de milho verde para mousse,creme de milho verde para sopa,creme de milho verde para molho,creme de milho verde para gratinar,creme de milho verde para recheio,creme de milho verde para cobertura,creme de milho verde para pamonha
+Creme de cebola|creme de cebola em pó,creme de cebola sachê,creme de cebola em envelope,creme de cebola para sopa,creme de cebola para molho,creme de cebola para carne,creme de cebola para frango,creme de cebola para arroz,creme de cebola para macarrão,creme de cebola para batata,creme de cebola para legumes,creme de cebola para dip,creme de cebola para pastinha,creme de cebola para patê,creme de cebola para recheio,creme de cebola para cobertura,creme de cebola knorr,knorr creme de cebola,creme de cebola maggi,maggi creme de cebola
+Sopa instantânea|sopa em pó,sopa de pacote,sopa de sachê,sopa pronta,sopa de legumes em pó,sopa de legumes de pacote,sopa de galinha em pó,sopa de galinha de pacote,sopa de carne em pó,sopa de carne de pacote,sopa de cebola em pó,sopa de cebola de pacote,sopa de mandioca em pó,sopa de mandioca de pacote,sopa de feijão em pó,sopa de feijão de pacote,sopa de ervilha em pó,sopa de ervilha de pacote,sopa de milho em pó,sopa de milho de pacote,sopa de batata em pó,sopa de batata de pacote,sopa de abóbora em pó,sopa de abóbora de pacote,sopa de macarrão em pó,sopa de macarrão de pacote
+Nuggets|nuggets de frango,nugget,nugget de frango,nuggets congelados,nuggets empanados,nuggets assados,nuggets fritos,nuggets de peixe,nuggets vegetarianos,nuggets veganos,nuggets de soja,nuggets de legumes,nuggets de queijo,nuggets caseiros,empanado de frango,empanados de frango,frango empanado,frango à milanesa,frango a milanesa,steak de frango,steak de frango empanado,sobrecoxa empanada,peito de frango empanado,coxinha da asa empanada,sassami empanado,sassami,iscas de frango empanadas,tirinhas de frango empanadas,palitos de frango empanados,bastões de frango empanados,medalhão de frango,medalhão de frango empanado,almôndega de frango,almôndegas de frango
+Hambúrguer|hambúrguer de carne,hamburguer,hamburguer de carne,hambúrguer bovino,hambúrguer de frango,hambúrguer de peixe,hambúrguer vegetariano,hambúrguer vegano,hambúrguer de soja,hambúrguer de grão-de-bico,hambúrguer de lentilha,hambúrguer de feijão,hambúrguer de quinoa,hambúrguer de cogumelos,hambúrguer de legumes,hambúrguer de abóbora,hambúrguer de berinjela,hambúrguer de beterraba,hambúrguer de batata-doce,hambúrguer de arroz,hambúrguer de aveia,hambúrguer congelado,hambúrguer caseiro,hambúrguer artesanal,hambúrguer gourmet,hambúrguer premium,hambúrguer smash,smash burger,burger,burger de carne,burger bovino,burger de frango,burger de peixe,burger vegetariano,burger vegano,hambúrguer seara,hambúrguer sadia,hambúrguer perdigão,hambúrguer swift,hambúrguer friboi,hambúrguer maturatta,maturatta,hambúrguer bassi,hambúrguer da casa,hambúrguer 150g,hambúrguer 180g,hambúrguer 200g
+Batata frita congelada|batata palito congelada,batata frita pronta,batata palito,batata frita palito,batata frita rústica,batata rústica congelada,batata rústica,batata chips,batata chips pronta,batata chips congelada,batata smiles,smiles,batata noisette,noisette,batata canoa,batata gomo,batata em gomos,batata em palitos,batata em cubos,batata em rodelas,batata em fatias,batata em lâminas,batata em tiras,batata em espiral,batata espiral,batata ondulada,batata waffle,batata em formato de waffle,batata em formato de carinha,batata em formato de smile,batata mccain,mccain,batata bem brasil,bem brasil,batata sadia,batata perdigão,batata seara,batata batavo,batata swift,batata friboi,batata bassi,batata da casa,batata caseira
+# Produtos fit e vegetais
+Whey protein|whey,whey protein concentrado,whey protein isolado,whey protein hidrolisado,whey protein de baunilha,whey protein de chocolate,whey protein de morango,whey protein de cookies,whey protein de coco,whey protein de banana,whey protein de doce de leite,whey protein de café,whey protein de caramelo,whey protein de brigadeiro,whey protein de paçoca,whey protein de amendoim,whey protein neutro,whey protein sem sabor,whey protein natural,whey protein vegano,proteína em pó,proteína vegetal,proteína vegetal em pó,proteína de ervilha,proteína de arroz,proteína de soja isolada,proteína de cânhamo,proteína de abóbora,proteína de girassol,proteína de batata,proteína de grão-de-bico,proteína de feijão,proteína de lentilha,proteína de quinoa,proteína de amaranto,proteína de chia,proteína de linhaça,proteína de gergelim,proteína de amêndoas,proteína de castanhas,proteína de nozes,proteína de amendoim,proteína de aveia,proteína de trigo,proteína de milho,caseína,albumina,albumina em pó,clara em pó,claras em pó
+Colágeno|colágeno hidrolisado,colágeno em pó,colágeno verisol,colágeno tipo 1,colágeno tipo 2,colágeno marinho,colágeno bovino,colágeno vegetal,colágeno com vitamina c,colágeno com ácido hialurônico,colágeno sem sabor,colágeno de limão,colágeno de laranja,colágeno de frutas vermelhas,colágeno de abacaxi,colágeno de maracujá,colágeno de morango,colágeno de uva,colágeno de maçã verde,colágeno de cranberry
+Creatina|creatina monohidratada,creatina em pó,creatina creapure,creatina pura,creatina neutra,creatina sem sabor
+Levedura nutricional|levedura,levedura em flocos,levedura nutricional em flocos,levedura de cerveja,levedura de cerveja em pó,levedura de cerveja em flocos,levedura inativa,nutritional yeast,queijo vegano em pó
+Iogurte vegetal|iogurte de coco,iogurte de soja,iogurte de amêndoas,iogurte de aveia,iogurte de castanha,iogurte vegano,iogurte de origem vegetal,iogurte plant based,iogurte à base de plantas,iogurte de arroz,iogurte de cânhamo
+Queijo vegano|queijo vegetal,queijo de castanha,queijo de castanha de caju,queijo de amêndoas,queijo de soja,queijo de coco,queijo à base de plantas,queijo plant based,mussarela vegana,parmesão vegano,requeijão vegano,cream cheese vegano,ricota vegana,cheddar vegano,provolone vegano,gorgonzola vegano,brie vegano,feta vegano
+Carne vegetal|carne vegana,hambúrguer vegetal,hambúrguer plant based,carne plant based,carne à base de plantas,carne moída vegetal,carne moída de soja,carne de jaca,jaca desfiada,jaca em conserva,jaca verde em conserva,carne de cogumelos,carne de seitan,carne de glúten,carne de proteína de soja,carne de ervilha,carne de grão-de-bico,carne de lentilha,carne de feijão,carne de quinoa,carne de amaranto,carne de chia,carne de linhaça,carne de gergelim,carne de amêndoas,carne de castanhas,carne de nozes,carne de amendoim,carne de aveia,carne de trigo,carne de milho
+Banana verde|banana verde cozida,banana verde crua,banana-verde,banana verde amassada,banana verde em fatias,banana verde em rodelas,banana verde em cubos,banana verde em palitos,banana verde em chips,chips de banana verde,banana verde assada,banana verde frita,banana verde grelhada,banana verde desidratada,banana verde em pó,banana verde em farinha
+Mandioca cozida|aipim cozido,macaxeira cozida,mandioca cozida amassada,purê de mandioca,purê de aipim,purê de macaxeira,pirão de mandioca
+Purê de batata|purê de batata pronto,purê de batata instantâneo,purê de batata em pó,purê de batata congelado,purê de batata caseiro,purê de batata cremoso,purê de batata rústico,purê de batata com queijo,purê de batata com bacon,purê de batata com alho,purê de batata com ervas,purê de batata com noz-moscada,purê de batata com leite,purê de batata com manteiga,purê de batata com creme de leite,purê de batata com requeijão,purê de batata com cream cheese,purê de batata com parmesão,purê de batata com azeite,purê de batata com cebola caramelizada,purê de batata com cebola frita,purê de batata com cebolinha,purê de batata com salsinha,purê de batata com alecrim,purê de batata com tomilho,purê de batata com sálvia,purê de batata com manjericão,purê de batata com orégano,purê de batata com cúrcuma,purê de batata com páprica,purê de batata com pimenta,purê de batata com mostarda,purê de batata com wasabi,purê de batata com raiz-forte,purê de batata com trufa,purê de batata com azeite trufado,purê de batata com óleo de trufa,purê de batata com queijo brie,purê de batata com queijo gorgonzola,purê de batata com queijo provolone,purê de batata com queijo gouda,purê de batata com queijo emmental,purê de batata com queijo gruyère,purê de batata com queijo cheddar,purê de batata com queijo feta,purê de batata com queijo coalho,purê de batata com queijo minas,purê de batata com queijo canastra,purê de batata com queijo meia cura,purê de batata com queijo mussarela
+# Outros ingredientes de despensa
+Alfarroba|alfarroba em pó,farinha de alfarroba,chocolate de alfarroba,carob,carob em pó
+Maca peruana|maca,maca peruana em pó,maca em pó,maca peruana em cápsulas
+Spirulina|spirulina em pó,spirulina em cápsulas
+Raiz de beterraba em pó|beterraba em pó,pó de beterraba,suco de beterraba em pó
+Guaraná em pó|guaraná,guarana em pó,guaraná ralado,guaraná em pó natural,guaraná em pó puro,guaraná da amazônia,guaraná de maués,guaraná em bastão,guaraná em cápsulas,guaraná em tabletes,guaraná natural,guaraná puro,guaraná orgânico
+Erva-mate|erva mate,mate,chimarrão,erva para chimarrão,erva-mate para chimarrão,erva-mate para tererê,erva para tererê,tererê,erva-mate tostada,erva mate tostada,mate tostado,mate gelado,mate em folhas,mate em pó,mate solúvel,mate leão,mate matte leão
+Alho negro|alho preto,alho negro fermentado,black garlic,alho envelhecido,alho fermentado
+Trufa|trufa negra,trufa branca,trufas,trufa fresca,trufa em conserva,trufa ralada,trufa laminada,trufa em pó,trufa em pasta,pasta de trufa,creme de trufa,molho de trufa,sal trufado,sal de trufa,manteiga trufada,manteiga de trufa,mel trufado,mel de trufa,queijo trufado,queijo com trufa,pecorino trufado,parmesão trufado,brie trufado,camembert trufado,gouda trufado,emmental trufado,gruyère trufado,raclette trufado,ricota trufada,cream cheese trufado,requeijão trufado,maionese trufada,molho trufado,purê trufado,risoto trufado,massa trufada,nhoque trufado,ravióli trufado,capeletti trufado,tortellini trufado,lasanha trufada,pizza trufada,hambúrguer trufado,batata frita trufada,batata trufada,ovo trufado,omelete trufada,omelete trufado

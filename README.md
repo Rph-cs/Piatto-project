@@ -13,7 +13,12 @@ supabase/schema.sql  tabelas
 ## Rodar local
 1. Supabase: crie o projeto e rode `supabase/schema.sql` no SQL Editor.
 2. Preencha o `.env.local` (SUPABASE_URL, SUPABASE_SERVICE_KEY, JWT_SECRET, AI_API_KEY).
-3. `npm install` e depois `npx vercel dev` (abre em http://localhost:3000).
+3. `npm install` e depois `npm start` (abre em http://localhost:3000).
 
 ## Deploy
 Suba para o GitHub, importe na Vercel e copie as mesmas variáveis em Settings > Environment Variables.
+
+## Premium e contas de demonstração
+Rode no Supabase, nesta ordem: `supabase/schema.sql`, `ingredientes.sql`, `02-uso.sql`, `03-premium.sql`.
+O `03-premium.sql` cria as contas `demo_premium` e `demo_gratis` (senha das duas: `demo1234`). Apague antes de abrir ao público.
+Para tornar alguém premium: `update users set plano = 'premium' where username = 'fulano';`

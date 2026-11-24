@@ -1,1 +1,1 @@
-{"name":"piatto","private":true,"type":"module","scripts":{"dev":"vercel dev"},"dependencies":{"@supabase/supabase-js":"^2.45.0","bcryptjs":"^2.4.3","jsonwebtoken":"^9.0.2"}}
+{"name":"piatto","private":true,"type":"module","scripts":{"ingredientes":"node --env-file=.env.local scripts/importar-ingredientes.mjs","teste:ia":"node --env-file=.env.local teste-ia.mjs","start":"node --env-file=.env.local server.mjs","dev":"vercel dev","teste":"node --env-file=.env.local teste-login.mjs"},"dependencies":{"@supabase/supabase-js":"^2.45.0","bcryptjs":"^2.4.3","jsonwebtoken":"^9.0.2"}}
